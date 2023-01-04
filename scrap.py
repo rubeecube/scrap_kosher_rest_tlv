@@ -79,5 +79,7 @@ with open('tsohar.json', 'w+') as f:
 
 pandas.read_json("rabanut.json").to_excel("rabanut.xlsx", index=False)
 pandas.read_json("tsohar.json").to_excel("tsohar.xlsx", index=False)
+pandas.read_json("rabanut.json").to_csv("rabanut.csv", index=False)
+pandas.read_json("tsohar.json").to_csv("tsohar.csv", index=False)
 
 
