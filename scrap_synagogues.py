@@ -25,7 +25,6 @@ syn_id = None
 for page in range(1, 5):
     time.sleep(1)
     html = requests.get(url + str(page)).text
-    print(html)
     tree = etree.parse(StringIO(html), parser)
     syns_url += [syn.attrib['href'] for syn in tree.xpath("/html/body/div[1]/section/div/div[2]/div[2]/div/div/a")]
 
