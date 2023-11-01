@@ -53,7 +53,6 @@ done_urls = [x['url'] for x in syns]
 for syn_url in syns_url:
     if syn_url in done_urls:
         continue
-    time.sleep(1)
     html = requests.get(syn_url).text
     tree = etree.parse(StringIO(html), parser)
 
