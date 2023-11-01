@@ -69,6 +69,8 @@ for syn_url in syns_url:
 
         with open('synagogues.json', 'w+') as f:
             json.dump(syns, f, indent=4)
+        pandas.read_json("synagogues.json").to_excel("synagogues_partial.xlsx", index=False)
+        pandas.read_json("synagogues.json").to_csv("synagogues_partial.csv", index=False)
         print('go to sleep...')
 
         time.sleep(60*5)
