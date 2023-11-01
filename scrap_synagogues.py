@@ -50,7 +50,8 @@ if re_cache:
     syns = []
 
 done_urls = [x['url'] for x in syns]
-for syn_url in syns_url:
+print(f"skipping {len(done_urls)}...")
+for i, syn_url in enumerate(syns_url):
     if syn_url in done_urls:
         continue
     html = requests.get(syn_url).text
@@ -66,7 +67,7 @@ for syn_url in syns_url:
             'name': name_block[0].text.strip()
         }
     except:
-
+        print(f"Done {i}/{len(syns_url)}...")
         with open('synagogues.json', 'w+') as f:
             json.dump(syns, f, indent=4)
         pandas.read_json("synagogues.json").to_excel("synagogues_partial.xlsx", index=False)
