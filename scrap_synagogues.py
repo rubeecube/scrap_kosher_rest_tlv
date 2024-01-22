@@ -4,6 +4,8 @@ import requests
 from io import StringIO
 import pandas
 import time
+import os
+
 
 def innertext(tag):
     if tag.text is None:
@@ -90,5 +92,4 @@ with open('synagogues.json', 'w+') as f:
 
 pandas.read_json("synagogues.json").to_excel("synagogues.xlsx", index=False)
 pandas.read_json("synagogues.json").to_csv("synagogues.csv", index=False)
-
-
+os.rename("synagogues.json", "synagogues_bak.json")

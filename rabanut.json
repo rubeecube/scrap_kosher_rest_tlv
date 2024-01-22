@@ -27,6 +27,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/bbb-%d7%94%d7%9b%d7%a9%d7%a8/",
+        "post_title": "BBB \u05d4\u05db\u05e9\u05e8",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
+        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 6",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/bes-kebab/",
         "post_title": "be\u015e kebab",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -35,9 +43,116 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/con-amore-pizza/",
-        "post_title": "con amore pizza",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
+        "href": "https://rabanut.co.il/business/bobe-2/",
+        "post_title": "BOBE",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
+        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%9e%d7%92%d7%93%d7%9c%d7%99-%d7%93%d7%95%d7%93/",
+        "post_title": "carrefour \u05de\u05d2\u05d3\u05dc\u05d9 \u05d3\u05d5\u05d3",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d5\u05e8\u05d9 12",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%94%d7%a8%d7%95%d7%9f-%d7%91%d7%a7%d7%a8/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d4\u05e8\u05d5\u05df \u05d1\u05e7\u05e8",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d4\u05e8\u05d5\u05df \u05d1\u05e7\u05e8 8",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%95%d7%a4%d7%a0%d7%94%d7%99%d7%99%d7%9e%d7%a8/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d5\u05e4\u05e0\u05d4\u05d9\u05d9\u05de\u05e8",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d5\u05e4\u05e0\u05d4\u05d9\u05d9\u05de\u05e8 13",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%91%d7%a0%d7%99-%d7%90%d7%a4%d7%a8%d7%99%d7%9d/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d1\u05e0\u05d9 \u05d0\u05e4\u05e8\u05d9\u05dd",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d1\u05e0\u05d9 \u05d0\u05e4\u05e8\u05d9\u05dd 209",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%95%d7%93-%d7%9e%d7%a8%d7%9b%d7%95%d7%a1/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d5\u05d3 \u05de\u05e8\u05db\u05d5\u05e1",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d3\u05d5\u05d3 \u05de\u05e8\u05db\u05d5\u05e1 13",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 7",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%95%d7%99%d7%a6%d7%9e%d7%9f/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05d5\u05d9\u05e6\u05de\u05df",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 20",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9c%d7%94-%d7%92%d7%95%d7%95%d7%90%d7%a8%d7%93%d7%99%d7%94/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 76",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9c%d7%95%d7%a0%d7%93%d7%95%d7%9f-%d7%9e%d7%99%d7%a0%d7%99%d7%a1%d7%98%d7%95%d7%a8/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05dc\u05d5\u05e0\u05d3\u05d5\u05df \u05de\u05d9\u05e0\u05d9\u05e1\u05d8\u05d5\u05e8",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 30",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a2%d7%a4%d7%99%d7%9c%d7%99-%d7%90%d7%92%d7%95%d7%96/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05de\u05e2\u05e4\u05d9\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d6",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05de\u05e2\u05e4\u05d9\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d6",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/carrefour-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a2%d7%9e%d7%a7-%d7%91%d7%a8%d7%9b%d7%94/",
+        "post_title": "carrefour \u05e1\u05e0\u05d9\u05e3 \u05e2\u05de\u05e7 \u05d1\u05e8\u05db\u05d4",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05e2\u05de\u05e7 \u05d1\u05e8\u05db\u05d4 25",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/con-amore-pizza-%d7%a7%d7%95%d7%9f-%d7%90%d7%9e%d7%95%d7%a8%d7%94-%d7%a4%d7%99%d7%a6%d7%94/",
+        "post_title": "con amore pizza \u05e7\u05d5\u05df \u05d0\u05de\u05d5\u05e8\u05d4 \u05e4\u05d9\u05e6\u05d4",
+        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
         "wrap_address": "\u05db\u05d9\u05db\u05e8 \u05e7\u05d3\u05d5\u05de\u05d9\u05dd 9",
         "wrap_congregation": ""
     },
@@ -59,15 +174,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/fish-and/",
-        "post_title": "FISH AND",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
-        "wrap_address": "\u05d4\u05dc\u05dc \u05d4\u05d6\u05e7\u05df 18",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/green-kitchen-%d7%a2%d7%9c%d7%94/",
         "post_title": "green kitchen& \u05e2\u05dc\u05d4",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
@@ -80,6 +186,14 @@
         "post_title": "Honey Lulu",
         "business_type": "\u05d2\u05dc\u05d9\u05d3\u05e8\u05d9\u05d9\u05d4",
         "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 94",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/imersion/",
+        "post_title": "Imersion",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d1\u05d9\u05ea \u05d0\u05e9\u05dc 31",
         "wrap_congregation": ""
     },
     {
@@ -98,6 +212,14 @@
         "wrap_address": "\u05d9\u05d3\u05d9\u05d3\u05d9\u05d4 \u05e4\u05e8\u05e0\u05e7\u05dc 70",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/llita-bakery/",
+        "post_title": "Llita bakery",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d3\u05e8\u05da \u05d1\u05df \u05e6\u05d1\u05d9 76",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -143,14 +265,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/papa-pepper/",
-        "post_title": "papa pepper",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 96",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/shape-patissier/",
         "post_title": "shape patissier",
         "business_type": "\u05de\u05e4\u05e2\u05dc",
@@ -159,18 +273,10 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/sushi-n-poke/",
-        "post_title": "sushi n poke",
-        "business_type": "\u05e1\u05d5\u05e9\u05d9",
-        "wrap_address": "\u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2 20",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/twins-cakes-%d7%98%d7%95%d7%95%d7%99%d7%a0%d7%a1-%d7%a7%d7%99%d7%99%d7%a7%d7%a1/",
-        "post_title": "Twins Cakes \u05d8\u05d5\u05d5\u05d9\u05e0\u05e1 \u05e7\u05d9\u05d9\u05e7\u05e1",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1 22",
+        "href": "https://rabanut.co.il/business/super/",
+        "post_title": "super",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 35",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -185,18 +291,18 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90-%d7%a9-%d7%a2%d7%a0%d7%a7-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%91%d7%a2%d7%9e-2/",
-        "post_title": "\u05d0.\u05e9. \u05e2\u05e0\u05e7 \u05d4\u05de\u05d6\u05d5\u05df \u05d1\u05e2\"\u05de",
-        "business_type": "\u05de\u05e8\u05db\u05d5\u05dc",
-        "wrap_address": "\u05e9\u05d3' \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 76",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90-%d7%a9-%d7%a2%d7%a0%d7%a7-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%91%d7%a2%d7%9e/",
         "post_title": "\u05d0.\u05e9. \u05e2\u05e0\u05e7 \u05d4\u05de\u05d6\u05d5\u05df \u05d1\u05e2\"\u05de",
         "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e8\u05d5\u05ea \u05d5\u05d9\u05e8\u05e7\u05d5\u05ea",
         "wrap_address": "\u05d0\u05e6\"\u05dc 68",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90-%d7%a9-%d7%a2%d7%a0%d7%a7-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%91%d7%a2%d7%9e-2/",
+        "post_title": "\u05d0.\u05e9. \u05e2\u05e0\u05e7 \u05d4\u05de\u05d6\u05d5\u05df \u05d1\u05e2\"\u05de",
+        "business_type": "\u05de\u05e8\u05db\u05d5\u05dc",
+        "wrap_address": "\u05e9\u05d3' \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 76",
         "wrap_congregation": ""
     },
     {
@@ -252,6 +358,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%92%d7%93/",
+        "post_title": "\u05d0\u05d2\u05d3",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05ea\u05d7\u05e0\u05d4 \u05de\u05e8\u05db\u05d6\u05d9\u05ea",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a7%d7%91%d7%91/",
         "post_title": "\u05d0\u05d2\u05d3\u05d4 \u05e9\u05dc \u05e7\u05d1\u05d1",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05ea \u05e4\u05d5\u05e2\u05dc\u05d9\u05dd",
@@ -268,6 +382,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%92%d7%96/",
+        "post_title": "\u05d0\u05d2\u05d6",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 132",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%92%d7%a1%d7%99-%d7%92%d7%a8%d7%99%d7%9c-%d7%91%d7%a8/",
         "post_title": "\u05d0\u05d2\u05e1\u05d9 \u05d2\u05e8\u05d9\u05dc \u05d1\u05e8",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -277,10 +399,27 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%93%d7%95%d7%9f-%d7%a9%d7%95%d7%a7%d7%95/",
+        "post_title": "\u05d0\u05d3\u05d5\u05df \u05e9\u05d5\u05e7\u05d5",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9/\u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05e6\u05d1\u05d9 \u05e0\u05d9\u05e9\u05e8\u05d9 6",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%93%d7%99%d7%a8-%d7%99%d7%97%d7%96%d7%a7%d7%90%d7%9c/",
+        "post_title": "\u05d0\u05d3\u05d9\u05e8 \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc",
+        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 35",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%95%d7%93%d7%99-%d7%91%d7%9b%d7%95%d7%a8-%d7%a4%d7%99%d7%a9-%d7%a1%d7%98%d7%95%d7%a8/",
         "post_title": "\u05d0\u05d5\u05d3\u05d9 \u05d1\u05db\u05d5\u05e8 \u05e4\u05d9\u05e9 \u05e1\u05d8\u05d5\u05e8",
         "business_type": "\u05d7\u05e0\u05d5\u05ea \u05d3\u05d2\u05d9\u05dd",
-        "wrap_address": "\u05d4\u05ea\u05d7\u05d9\u05d9\u05d4 22",
+        "wrap_address": "\u05d4\u05ea\u05d7\u05d9\u05d4 22",
         "wrap_congregation": ""
     },
     {
@@ -314,6 +453,14 @@
         "post_title": "\u05d0\u05d5\u05dc\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05e9\u05d1\u05d9\u05dc \u05d4\u05d0\u05d8\u05d3 5",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%95%d7%9c%d7%99%d7%91%d7%99%d7%94-%d7%99%d7%96%d7%9e%d7%95%d7%aa/",
+        "post_title": "\u05d0\u05d5\u05dc\u05d9\u05d1\u05d9\u05d4 \u05d9\u05d6\u05de\u05d5\u05ea",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2 36",
         "wrap_congregation": ""
     },
     {
@@ -422,10 +569,19 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%97%d7%99%d7%9d-%d7%99%d7%a4%d7%a8%d7%97/",
-        "post_title": "\u05d0\u05d7\u05d9\u05dd \u05d9\u05e4\u05e8\u05d7",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e8\u05d5\u05e1\u05dc\u05d0\u05df 13",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%95%d7%a9%d7%99-%d7%90%d7%95%d7%a9%d7%99-%d7%a1%d7%95%d7%a9%d7%99/",
+        "post_title": "\u05d0\u05d5\u05e9\u05d9 \u05d0\u05d5\u05e9\u05d9 \u05e1\u05d5\u05e9\u05d9",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d0\u05e1\u05d9\u05ea\u05d9\u05ea",
+        "wrap_address": "\u05d4\u05d0\u05e0\u05d2\u05e8 21",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%95%d7%a9%d7%a8-%d7%a2%d7%93/",
+        "post_title": "\u05d0\u05d5\u05e9\u05e8 \u05e2\u05d3",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05e7\u05e8\u05de\u05d9\u05e0\u05d9\u05e6\u05e7\u05d9 3",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -467,15 +623,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%98%d7%9c%d7%99%d7%96-%d7%9e%d7%90%d7%99%d7%a8-%d7%95%d7%91%d7%a0%d7%99%d7%95/",
-        "post_title": "\u05d0\u05d8\u05dc\u05d9\u05d6 \u05de\u05d0\u05d9\u05e8 \u05d5\u05d1\u05e0\u05d9\u05d5",
-        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
-        "wrap_address": "\u05e0\u05d5\u05e8\u05d9\u05d0\u05dc 7",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%98%d7%9c%d7%99%d7%96-%d7%a0%d7%95%d7%a8%d7%99%d7%91%d7%a1/",
         "post_title": "\u05d0\u05d8\u05dc\u05d9\u05d6 \u05e0\u05d5\u05e8\u05d9\u05d1\u05e1",
         "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
@@ -485,19 +632,20 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%98%d7%9c%d7%99%d7%96-%d7%a6%d7%95%d7%a8%d7%99-%d7%9e%d7%a9%d7%94-%d7%9c%d7%95%d7%99/",
-        "post_title": "\u05d0\u05d8\u05dc\u05d9\u05d6 \u05e6\u05d5\u05e8\u05d9 \u2013 \u05de\u05e9\u05d4 \u05dc\u05d5\u05d9",
-        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
-        "wrap_address": "\u05d9\u05d7\u05d9\u05d0 \u05e7\u05d0\u05e4\u05d7 4",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%92%d7%a8%d7%91%d7%99-%d7%95%d7%99%d7%a7%d7%98%d7%95%d7%a8/",
         "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05d2'\u05e8\u05d1\u05d9 \u05d5\u05d9\u05e7\u05d8\u05d5\u05e8",
         "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
         "wrap_address": "\u05d9\u05d5\u05dd \u05d8\u05d5\u05d1 4",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%97%d7%9f/",
+        "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05d7\u05df",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d9\u05e4\u05ea 65",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -518,12 +666,37 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%95%d7%9f/",
+        "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05dc\u05d5\u05d9\u05e0\u05e1\u05d5\u05df",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d9\u05d7\u05d9\u05d0 \u05e7\u05d0\u05e4\u05d7 4",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%9e%d7%90%d7%99%d7%a8-%d7%95%d7%91%d7%a0%d7%99%d7%95/",
+        "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05de\u05d0\u05d9\u05e8 \u05d5\u05d1\u05e0\u05d9\u05d5",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05e0\u05d5\u05e8\u05d9\u05d0\u05dc 7",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%9e%d7%99%d7%98%d7%9e%d7%9f/",
         "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05de\u05d9\u05d8\u05de\u05df",
         "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
         "wrap_address": "\u05e7\u05dc\u05de\u05df \u05de\u05d2\u05df 3",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1705881600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%96-%d7%a0%d7%91%d7%95%d7%9f/",
+        "post_title": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6 \u05e0\u05d1\u05d5\u05df",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d4\u05de\u05d1\u05e9\u05e8 17",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -560,18 +733,18 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%9c%d7%a0%d7%a1-%d7%98%d7%90%d7%98%d7%99/",
-        "post_title": "\u05d0\u05d9\u05dc\u05e0\u05e1 \u05d8\u05d0\u05d8\u05d9",
-        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05db\u05d9\u05db\u05e8 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%9c%d7%a0%d7%a1-%d7%98%d7%90%d7%98%d7%99-2/",
         "post_title": "\u05d0\u05d9\u05dc\u05e0\u05e1 \u05d8\u05d0\u05d8\u05d9",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 121",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%99%d7%9c%d7%a0%d7%a1-%d7%98%d7%90%d7%98%d7%99/",
+        "post_title": "\u05d0\u05d9\u05dc\u05e0\u05e1 \u05d8\u05d0\u05d8\u05d9",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05db\u05d9\u05db\u05e8 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
         "wrap_congregation": ""
     },
     {
@@ -693,12 +866,19 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%9e%d7%99%d7%9c/",
-        "post_title": "\u05d0\u05de\u05d9\u05dc",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%9e%d7%99%d7%a8-%d7%92%d7%a8%d7%99%d7%9c-%d7%91%d7%a9%d7%a8%d7%99%d7%9d/",
+        "post_title": "\u05d0\u05de\u05d9\u05e8 \u05d2\u05e8\u05d9\u05dc \u05d1\u05e9\u05e8\u05d9\u05dd",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e7\u05d5\u05d9\u05e4\u05de\u05df \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc 6",
-        "wrap_congregation": "",
-        "wrap_phone": ""
+        "wrap_address": "\u05d4\u05e2\u05dc\u05d9\u05d4 53",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a0%d7%a1%d7%98%d7%a1%d7%99%d7%94/",
+        "post_title": "\u05d0\u05e0\u05e1\u05d8\u05e1\u05d9\u05d4",
+        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "wrap_address": "\u05d9\u05d3 \u05d7\u05e8\u05d5\u05e6\u05d9\u05dd 15",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -724,6 +904,15 @@
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4",
         "wrap_address": "\u05e8\u05d1\u05d9 \u05de\u05d0\u05d9\u05e8 21",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a1%d7%99%d7%94-%d7%a1%d7%a0%d7%98%d7%a8/",
+        "post_title": "\u05d0\u05e1\u05d9\u05d4 \u05e1\u05e0\u05d8\u05e8",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05de\u05e1\u05d9\u05dc\u05ea \u05d9\u05e9\u05e8\u05d9\u05dd 41",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -775,6 +964,14 @@
         "wrap_address": "\u05d0\u05d5\u05e8\u05d9\u05d0\u05dc \u05d0\u05e7\u05d5\u05e1\u05d8\u05d4 7",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a7%d7%a1%d7%98%d7%a8%d7%94-%d7%9e%d7%a8%d7%a7%d7%98/",
+        "post_title": "\u05d0\u05e7\u05e1\u05d8\u05e8\u05d4 \u05de\u05e8\u05e7\u05d8",
+        "business_type": "\u05de\u05e8\u05db\u05d5\u05dc",
+        "wrap_address": "\u05e7\u05e8\u05dc\u05d9\u05d1\u05da 8",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -839,6 +1036,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%90%d7%a8%d7%91%d7%a2%d7%94/",
+        "post_title": "\u05d0\u05e8\u05d5\u05de\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d4\u05d0\u05e8\u05d1\u05e2\u05d4",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d4\u05d0\u05e8\u05d1\u05e2\u05d4 24",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%95%d7%99%d7%a6%d7%9e%d7%9f/",
         "post_title": "\u05d0\u05e8\u05d5\u05de\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d5\u05d9\u05e6\u05de\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
@@ -855,19 +1061,19 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%92%d7%99%d7%9f/",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%92%d7%99%d7%9f-2/",
         "post_title": "\u05d0\u05e8\u05d5\u05de\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 144",
+        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 48",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%92%d7%99%d7%9f-2/",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%95%d7%9e%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%92%d7%99%d7%9f/",
         "post_title": "\u05d0\u05e8\u05d5\u05de\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 48",
+        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 144",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -910,7 +1116,7 @@
         "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%98-%d7%90%d7%99%d7%99%d7%a1-%d7%a7%d7%a8%d7%99%d7%9d-%d7%9c%d7%94-%d7%92%d7%95%d7%95%d7%a8%d7%93%d7%99%d7%94/",
         "post_title": "\u05d0\u05e8\u05d8 \u05d0\u05d9\u05d9\u05e1 \u05e7\u05e8\u05d9\u05dd \u05dc\u05d4 \u05d2\u05d5\u05d5\u05e8\u05d3\u05d9\u05d4",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05e8\u05d3\u05d9\u05d4 64",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 64",
         "wrap_congregation": ""
     },
     {
@@ -921,6 +1127,14 @@
         "wrap_address": "\u05d0\u05e8\u05dc\u05d5\u05d6\u05d5\u05e8\u05d5\u05d1 188",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%99%d7%9b%d7%90/",
+        "post_title": "\u05d0\u05e8\u05d9\u05db\u05d0",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05e4\u05e8\u05d5\u05d5\u05d4",
+        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 15",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -936,6 +1150,14 @@
         "post_title": "\u05d0\u05e8\u05de\u05d5\u05e0\u05d5\u05ea \u05de\u05d6\u05dc \u2013 \u05d0\u05d5\u05e8 \u05d1\u05e0\u05d9\u05de\u05d9\u05df  \u05d0\u05d6\u05db\u05e8\u05d5\u05ea",
         "business_type": "\u05d0\u05d5\u05dc\u05dd \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd",
         "wrap_address": "\u05d2\u05e8\u05d9\u05e0\u05d1\u05d5\u05d9\u05dd 41",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%a7%d7%a4%d7%94/",
+        "post_title": "\u05d0\u05e8\u05e7\u05e4\u05d4",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 27",
         "wrap_congregation": ""
     },
     {
@@ -961,6 +1183,15 @@
         "post_title": "\u05d0\u05e8\u05e7\u05e4\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9 \u05e7\u05d5\u05de\u05d4 3",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%90%d7%a8%d7%a7%d7%a4%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a7%d7%a0%d7%99%d7%95%d7%9f-%d7%a8%d7%9e%d7%aa-%d7%90%d7%91%d7%99%d7%91/",
+        "post_title": "\u05d0\u05e8\u05e7\u05e4\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05e7\u05e0\u05d9\u05d5\u05df \u05e8\u05de\u05ea \u05d0\u05d1\u05d9\u05d1",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e8\u05de\u05ea \u05d0\u05d1\u05d9\u05d1",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -1008,6 +1239,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%90%d7%99-%d7%a4%d7%90%d7%9f/",
+        "post_title": "\u05d1\u05d0\u05d9-\u05e4\u05d0\u05df",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 144",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%90%d7%9c%d7%90%d7%93%d7%99-%d7%a9%d7%99%d7%a7/",
         "post_title": "\u05d1\u05d0\u05dc\u05d0\u05d3\u05d9 \u05e9\u05d9\u05e7",
         "business_type": "\u05e7\u05d9\u05d9\u05d8\u05e8\u05d9\u05e0\u05d2",
@@ -1020,15 +1259,6 @@
         "post_title": "\u05d1\u05d0\u05dc\u05d9\u05e0\u05d2'\u05e8\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05de\u05dc\"\u05df 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%91%d7%91%d7%99%d7%9c%d7%94-%d7%a7%d7%a4%d7%94/",
-        "post_title": "\u05d1\u05d1\u05d9\u05dc\u05d4 \u05e7\u05e4\u05d4",
-        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05e9\u05d8\u05e8\u05d9\u05ea 6",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -1265,15 +1495,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%91%d7%95%d7%a8%d7%92%d7%a8%d7%90%d7%a0%d7%a5-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a4%d7%a0%d7%97%d7%a1-%d7%a8%d7%95%d7%96%d7%9f/",
-        "post_title": "\u05d1\u05d5\u05e8\u05d2\u05e8\u05d0\u05e0\u05e5 \u05e1\u05e0\u05d9\u05e3 \u05e4\u05e0\u05d7\u05e1 \u05e8\u05d5\u05d6\u05df",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e4\u05e0\u05d7\u05e1 \u05e8\u05d5\u05d6\u05df 72",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%95%d7%a8%d7%92%d7%a8%d7%90%d7%a0%d7%a5-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a7%d7%a0%d7%99%d7%95%d7%9f-%d7%a2%d7%96%d7%a8%d7%99%d7%90%d7%9c%d7%99/",
         "post_title": "\u05d1\u05d5\u05e8\u05d2\u05e8\u05d0\u05e0\u05e5 \u05e1\u05e0\u05d9\u05e3 \u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -1336,6 +1557,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%94%d7%9b%d7%a8%d7%9e%d7%9c/",
+        "post_title": "\u05d1\u05d5\u05e8\u05e7\u05e1 \u05d4\u05db\u05e8\u05de\u05dc",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
+        "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 36",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%95%d7%91%d7%a0%d7%99%d7%95/",
         "post_title": "\u05d1\u05d5\u05e8\u05e7\u05e1 \u05dc\u05d9\u05d0\u05d5\u05df \u05d5\u05d1\u05e0\u05d9\u05d5",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
@@ -1362,6 +1591,22 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%96%d7%99%d7%9c%d7%99%d7%a7%d7%95%d7%9d-%d7%a4%d7%99%d7%a6%d7%94/",
+        "post_title": "\u05d1\u05d6\u05d9\u05dc\u05d9\u05e7\u05d5\u05dd \u05e4\u05d9\u05e6\u05d4",
+        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
+        "wrap_address": "\u05d0\u05d1\u05e8\u05d1\u05e0\u05d0\u05dc 45",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%99-%d7%a4%d7%a8%d7%a9-2/",
+        "post_title": "\u05d1\u05d9 \u05e4\u05e8\u05e9",
+        "business_type": "\u05d1\u05e8 \u05d0\u05e7\u05d8\u05d9\u05d1\u05d9",
+        "wrap_address": "\u05e8\u05db\u05d1\u05ea \u05e1\u05d1\u05d9\u05d3\u05d5\u05e8",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%99-%d7%a4%d7%a8%d7%a9/",
         "post_title": "\u05d1\u05d9 \u05e4\u05e8\u05e9",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
@@ -1375,6 +1620,15 @@
         "post_title": "\u05d1\u05d9\"\u05d7 \u05e6\u05d4\u05dc\u05d5\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd",
         "wrap_address": "\u05e9\u05d3' \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 100",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%99%d7%99%d7%91%d7%99-%d7%9c%d7%99%d7%a1/",
+        "post_title": "\u05d1\u05d9\u05d9\u05d1\u05d9 \u05dc\u05d9\u05e1",
+        "business_type": "\u05d1\u05d9\u05ea \u05de\u05dc\u05d5\u05df",
+        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 14",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -1469,6 +1723,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%99%d7%aa-%d7%94%d7%9c%d7%95%d7%97%d7%9d/",
+        "post_title": "\u05d1\u05d9\u05ea \u05d4\u05dc\u05d5\u05d7\u05dd",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
+        "wrap_address": "\u05e9\u05de\u05d5\u05d0\u05dc \u05d1\u05e8\u05e7\u05d0\u05d9 49",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%99%d7%aa-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d/",
         "post_title": "\u05d1\u05d9\u05ea \u05e2\u05dc \u05d4\u05d9\u05dd",
         "business_type": "\u05d0\u05d5\u05dc\u05dd \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd",
@@ -1546,15 +1809,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%91%d7%9e%d7%91%d7%99/",
-        "post_title": "\u05d1\u05de\u05d1\u05d9",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9/\u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05d4\u05de\u05e8\u05d3 29",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%9f-%d7%a2%d7%9e%d7%99/",
         "post_title": "\u05d1\u05df \u05e2\u05de\u05d9",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
@@ -1608,6 +1862,24 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%a8%d7%90%d7%a1%d7%98%d7%a8%d7%99-18/",
+        "post_title": "\u05d1\u05e8\u05d0\u05e1\u05d8\u05e8\u05d9 18",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 18",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%a8%d7%92%d7%a8/",
+        "post_title": "\u05d1\u05e8\u05d2\u05e8",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 17",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%91%d7%a8%d7%93%d7%a7/",
         "post_title": "\u05d1\u05e8\u05d3\u05e7",
         "business_type": "\u05d1\u05e8 \u05d0\u05e7\u05d8\u05d9\u05d1\u05d9",
@@ -1621,6 +1893,15 @@
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%91%d7%a8%d7%99%d7%90-%d7%91%d7%90/",
+        "post_title": "\u05d1\u05e8\u05d9\u05d0 \u05d1\u05d0",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d9\u05d3 \u05d7\u05e8\u05d5\u05e6\u05d9\u05dd 13",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -1829,7 +2110,7 @@
         "href": "https://rabanut.co.il/business/%d7%92%d7%a8%d7%99%d7%9c-%d7%91%d7%a8/",
         "post_title": "\u05d2\u05e8\u05d9\u05dc \u05d1\u05e8",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05dc\u05d4 \u05d2\u05e8\u05d3\u05d9\u05d4 76",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 76",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -1922,7 +2203,7 @@
         "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%93%d7%90%d7%9c%d7%99-%d7%9c%d7%95%d7%99/",
         "post_title": "\u05d3\u05d0\u05dc\u05d9 \u2013 \u05dc\u05d5\u05d9",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
         "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 19",
         "wrap_congregation": ""
     },
@@ -1948,7 +2229,7 @@
         "href": "https://rabanut.co.il/business/%d7%93%d7%94-%d7%91%d7%95%d7%a6%d7%a8-%d7%a4%d7%a8%d7%95%d7%9e%d7%96/",
         "post_title": "\u05d3\u05d4 \u05d1\u05d5\u05e6'\u05e8 / \u05e4\u05e8\u05d5\u05de\u05d6'",
         "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
-        "wrap_address": "\u05dc\u05d4 \u05d2\u05e8\u05d3\u05d9\u05d4 66",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 66",
         "wrap_congregation": ""
     },
     {
@@ -1957,6 +2238,15 @@
         "post_title": "\u05d3\u05d4 \u05e4\u05e4\u05e8\u05e1",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9/\u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05e9\u05d3\u05e8\u05d5\u05ea \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea 7",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%93%d7%94-%d7%9c%d7%95%d7%a7%d7%a1-the-lux/",
+        "post_title": "\u05d3\u05d4-\u05dc\u05d5\u05e7\u05e1 The Lux",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d4\u05e0\u05d7\u05d5\u05e9\u05ea 3",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -1987,6 +2277,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%93%d7%99-%d7%90%d7%9f-%d7%90%d7%99%d7%99-dna-tlv/",
+        "post_title": "\u05d3\u05d9. \u05d0\u05df. \u05d0\u05d9\u05d9 DNA TLV",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05e0\u05d9\u05dd",
+        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%93%d7%99%d7%90%d7%a0%d7%94/",
         "post_title": "\u05d3\u05d9\u05d0\u05e0\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -2011,6 +2309,14 @@
         "wrap_address": "\u05e7\u05d5\u05d9\u05e4\u05de\u05df \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc 12",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%93%d7%99%d7%95%d7%a8-%d7%9e%d7%95%d7%92%d7%9f-%d7%91%d7%99%d7%aa-%d7%a9%d7%9c%d7%95%d7%9d/",
+        "post_title": "\u05d3\u05d9\u05d5\u05e8 \u05de\u05d5\u05d2\u05df \u05d1\u05d9\u05ea \u05e9\u05dc\u05d5\u05dd",
+        "business_type": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d5\u05ea",
+        "wrap_address": "\u05d2\u05e8\u05e5 11",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2143,6 +2449,22 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%90%d7%97%d7%99%d7%9d-%d7%a9%d7%9e%d7%90%d7%99/",
+        "post_title": "\u05d4\u05d0\u05d7\u05d9\u05dd \u05e9\u05de\u05d0\u05d9",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 42",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%90%d7%9b%d7%a1%d7%a0%d7%99%d7%94-%d7%94%d7%97%d7%91%d7%a8%d7%aa%d7%99%d7%aa/",
+        "post_title": "\u05d4\u05d0\u05db\u05e1\u05e0\u05d9\u05d4 \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05ea",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d4\u05d9\u05e8\u05e7\u05d5\u05df 165",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%94%d7%90%d7%9c%d7%97%d7%99%d7%9e%d7%90%d7%99-%d7%91%d7%a9%d7%95%d7%a7-%d7%94%d7%99%d7%95%d7%95%d7%a0%d7%99/",
         "post_title": "\u05d4\u05d0\u05dc\u05d7\u05d9\u05de\u05d0\u05d9 \u05d1\u05e9\u05d5\u05e7 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9",
         "business_type": "\u05de\u05e4\u05e2\u05dc \u05e7\u05d5\u05e7\u05d8\u05d9\u05d9\u05dc\u05d9\u05dd",
@@ -2185,11 +2507,12 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%94%d7%91%d7%9f-%d7%a9%d7%9c-%d7%a1%d7%95%d7%a8%d7%99/",
-        "post_title": "\u05d4\u05d1\u05df \u05e9\u05dc \u05e1\u05d5\u05e8\u05d9",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 123",
-        "wrap_congregation": ""
+        "href": "https://rabanut.co.il/business/%d7%94%d7%91%d7%99%d7%92%d7%94-%d7%91%d7%a4%d7%90%d7%a8%d7%a7/",
+        "post_title": "\u05d4\u05d1\u05d9\u05d2\u05d4 \u05d1\u05e4\u05d0\u05e8\u05e7",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05de\u05ea\u05d7\u05dd \u05e9\u05e8\u05d5\u05e0\u05d4",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2201,18 +2524,18 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%94%d7%93%d7%95%d7%9b%d7%9f-13/",
-        "post_title": "\u05d4\u05d3\u05d5\u05db\u05df 13",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
-        "wrap_address": "\u05e0\u05ea\u05df \u05d0\u05dc\u05d8\u05e8\u05de\u05df 13",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%91%d7%9f-%d7%a9%d7%9c-%d7%a1%d7%95%d7%a8%d7%99/",
+        "post_title": "\u05d4\u05d1\u05df \u05e9\u05dc \u05e1\u05d5\u05e8\u05d9",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 123",
         "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%94%d7%93%d7%95%d7%9b%d7%9f-%d7%94%d7%a2%d7%99%d7%a8%d7%a7%d7%99-%d7%a9%d7%9c-%d7%a8%d7%95%d7%a0%d7%99/",
-        "post_title": "\u05d4\u05d3\u05d5\u05db\u05df \u05d4\u05e2\u05d9\u05e8\u05e7\u05d9 \u05e9\u05dc \u05e8\u05d5\u05e0\u05d9",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%93%d7%95%d7%9b%d7%9f-13/",
+        "post_title": "\u05d4\u05d3\u05d5\u05db\u05df 13",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
-        "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 36",
+        "wrap_address": "\u05e0\u05ea\u05df \u05d0\u05dc\u05d8\u05e8\u05de\u05df 13",
         "wrap_congregation": ""
     },
     {
@@ -2291,6 +2614,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%98%d7%90%d7%91%d7%95%d7%9f-%d7%a4%d7%a7%d7%98%d7%95%d7%a8%d7%99/",
+        "post_title": "\u05d4\u05d8\u05d0\u05d1\u05d5\u05df \u05e4\u05e7\u05d8\u05d5\u05e8\u05d9",
+        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "wrap_address": "\u05d0\u05dc\u05d9\u05e2\u05d6\u05e8 \u05e7\u05e4\u05dc\u05df 1",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%94%d7%99%d7%9c%d7%98%d7%95%d7%9f/",
         "post_title": "\u05d4\u05d9\u05dc\u05d8\u05d5\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05de\u05dc\u05d5\u05df",
@@ -2300,18 +2631,10 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%94%d7%99%d7%a0%d7%95%d7%a7%d7%90-%d7%a9%d7%95%d7%95%d7%90%d7%a8%d7%9e%d7%94/",
-        "post_title": "\u05d4\u05d9\u05e0\u05d5\u05e7\u05d0 \u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 40",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%94%d7%9c%d7%91-%d7%94%d7%a8%d7%97%d7%91/",
         "post_title": "\u05d4\u05dc\u05d1 \u05d4\u05e8\u05d7\u05d1",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05de\u05dc''\u05df 18",
+        "wrap_address": "\u05de\u05dc\"\u05df 18",
         "wrap_congregation": ""
     },
     {
@@ -2367,6 +2690,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%9e%d7%95%d7%a6%d7%99%d7%90-%d7%9c%d7%97%d7%9d-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%a7%d7%99/",
+        "post_title": "\u05d4\u05de\u05d5\u05e6\u05d9\u05d0 \u05dc\u05d7\u05dd \u05e1\u05e0\u05d9\u05e3 \u05dc\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9",
+        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "wrap_address": "\u05dc\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9 40",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%94%d7%9e%d7%95%d7%a6%d7%99%d7%90-%d7%9c%d7%97%d7%9d-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a7%d7%95%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
         "post_title": "\u05d4\u05de\u05d5\u05e6\u05d9\u05d0 \u05dc\u05d7\u05dd \u05e1\u05e0\u05d9\u05e3 \u05de\u05e7\u05d5\u05d4 \u05d9\u05e9\u05e8\u05d0\u05dc",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
@@ -2380,6 +2712,14 @@
         "post_title": "\u05d4\u05de\u05d5\u05e6\u05d9\u05d0 \u05dc\u05d7\u05dd \u05e1\u05e0\u05d9\u05e3 \u05e0\u05d2\u05d1\u05d4",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05e0\u05d2\u05d1\u05d4 1",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%9e%d7%95%d7%a9%d7%91%d7%94-%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-4-%d7%98%d7%a2%d7%9e%d7%99%d7%9d/",
+        "post_title": "\u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05e4\u05dc\u05d0\u05e4\u05dc 4 \u05d8\u05e2\u05de\u05d9\u05dd",
+        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
+        "wrap_address": "\u05e7\u05e8\u05dc\u05d9\u05d1\u05da 7",
         "wrap_congregation": ""
     },
     {
@@ -2399,14 +2739,6 @@
         "wrap_address": "\u05e0\u05d7\u05dc\u05ea \u05d1\u05e0\u05d9\u05de\u05d9\u05df 2",
         "wrap_congregation": "",
         "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%a9%d7%9c-%d7%a4%d7%99%d7%91%d7%99/",
-        "post_title": "\u05d4\u05de\u05d8\u05d1\u05d7 \u05e9\u05dc \u05e4\u05d9\u05d1\u05d9",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
-        "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d4",
-        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2467,6 +2799,15 @@
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 55",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%94%d7%a4%d7%9c%d7%a0%d7%a6%d7%94-45-%d7%92%d7%a8%d7%99%d7%9c-%d7%91%d7%a8/",
+        "post_title": "\u05d4\u05e4\u05dc\u05e0\u05e6'\u05d4 45 \u05d2\u05e8\u05d9\u05dc \u05d1\u05e8",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d0\u05d9\u05dc\u05ea 45",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2588,6 +2929,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%95%d7%95%d7%9c%d7%a7-%d7%90%d7%a0%d7%93-%d7%a8%d7%95%d7%9c/",
+        "post_title": "\u05d5\u05d5\u05dc\u05e7 \u05d0\u05e0\u05d3 \u05e8\u05d5\u05dc",
+        "business_type": "\u05d1\u05e8 \u05d0\u05e7\u05d8\u05d9\u05d1\u05d9",
+        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 50",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%95%d7%95%d7%a7-%d7%98%d7%95-%d7%95%d7%95%d7%a7/",
         "post_title": "\u05d5\u05d5\u05e7 \u05d8\u05d5 \u05d5\u05d5\u05e7",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -2688,11 +3037,37 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%95%d7%a9%d7%91%d7%a2%d7%aa-%d7%95%d7%91%d7%a8%d7%9b%d7%aa/",
+        "post_title": "\u05d5\u05e9\u05d1\u05e2\u05ea \u05d5\u05d1\u05e8\u05db\u05ea",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d0\u05e6\"\u05dc 47",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%96%d7%95%d7%94%d7%a8-%d7%91%d7%99%d7%99%d7%a7%d7%a8%d7%99/",
         "post_title": "\u05d6\u05d5\u05d4\u05e8 \u05d1\u05d9\u05d9\u05e7\u05e8\u05d9",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 155",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%96%d7%95%d7%a7%d7%95-%d7%99%d7%92%d7%90%d7%9c-%d7%90%d7%9c%d7%95%d7%9f/",
+        "post_title": "\u05d6\u05d5\u05e7\u05d5 \u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 94",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%96%d7%95%d7%aa%d7%94-%d7%a4%d7%99%d7%a6%d7%94/",
+        "post_title": "\u05d6\u05d5\u05ea\u05d4 \u05e4\u05d9\u05e6\u05d4",
+        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
+        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 177",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2736,6 +3111,14 @@
         "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 161",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%91%d7%99%d7%91-%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%a7%d7%95%d7%91%d7%95%d7%aa/",
+        "post_title": "\u05d7\u05d1\u05d9\u05d1 \u05de\u05e8\u05db\u05d6 \u05d4\u05e7\u05d5\u05d1\u05d5\u05ea",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d4\u05de\u05d1\u05e9\u05e8 18",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2808,6 +3191,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%90%d7%a9%d7%9b%d7%a8%d7%94/",
+        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d0\u05e9\u05db\u05e8\u05d4",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05d9\u05e8\u05de\u05d9\u05d4\u05d5 45",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%91%d7%94%d7%93%d7%95%d7%a0%d7%a1-%d7%a1%d7%a0%d7%99%d7%a3-%d7%99%d7%92%d7%90%d7%9c-%d7%90%d7%9c%d7%95%d7%9f/",
         "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d1\u05d4\u05d3\u05d5\u05e0\u05e1 \u05e1\u05e0\u05d9\u05e3 \u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df",
         "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
@@ -2823,6 +3215,14 @@
         "wrap_address": "\u05d9\u05d3 \u05d7\u05e8\u05d5\u05e6\u05d9\u05dd 11",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%94%d7%90%d7%97%d7%99%d7%9d/",
+        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d4\u05d0\u05d7\u05d9\u05dd",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 20",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2861,10 +3261,26 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%94%d7%a2%d7%9d/",
+        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d4\u05e2\u05dd",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05e0\u05d7\u05dc\u05ea \u05d9\u05e6\u05d7\u05e7 28",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%96%d7%99%d7%aa%d7%95%d7%9f/",
         "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d6\u05d9\u05ea\u05d5\u05df",
         "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
         "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 55",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%97%d7%a1%d7%95%d7%9f-2/",
+        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d7\u05e1\u05d5\u05df",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 68",
         "wrap_congregation": ""
     },
     {
@@ -2875,14 +3291,6 @@
         "wrap_address": "\u05d0\u05dc\u05e0\u05d1\u05d9 87",
         "wrap_congregation": "",
         "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%97%d7%a1%d7%95%d7%9f-2/",
-        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d7\u05e1\u05d5\u05df",
-        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
-        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 68",
-        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -2916,6 +3324,14 @@
         "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05db\u05e1\u05e4\u05d9 \u05e1\u05e0\u05d9\u05e3 \u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
         "wrap_address": "\u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2 20",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%a4%d7%95%d7%9c-%d7%93%d7%93%d7%95%d7%a9/",
+        "post_title": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05e4\u05d5\u05dc \u05d3\u05d3\u05d5\u05e9",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 5",
         "wrap_congregation": ""
     },
     {
@@ -3108,6 +3524,23 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%98%d7%97%d7%a0%d7%aa-%d7%a7%d7%9e%d7%97-%d7%a6%d7%95%d7%a7%d7%a8%d7%9e%d7%9f/",
+        "post_title": "\u05d8\u05d7\u05e0\u05ea \u05e7\u05de\u05d7 \u05e6\u05d5\u05e7\u05e8\u05de\u05df",
+        "business_type": "\u05d8\u05d7\u05e0\u05ea \u05e7\u05de\u05d7",
+        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e0\u05d7 \u05de\u05d5\u05d6\u05e1",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%98%d7%99%d7%91-%d7%98%d7%95%d7%a4/",
+        "post_title": "\u05d8\u05d9\u05d1 \u05d8\u05d5\u05e4",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d1\u05d1\u05dc\u05d9 17",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%98%d7%99%d7%98%d7%95-%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%a8%d7%99%d7%94/",
         "post_title": "\u05d8\u05d9\u05d8\u05d5 \u05e7\u05d5\u05dc\u05d9\u05e0\u05e8\u05d9\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -3160,6 +3593,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%98%d7%a3-%d7%9c%d7%99/",
+        "post_title": "\u05d8\u05e3 \u05dc\u05d9",
+        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "wrap_address": "\u05d1\u05d5\u05e9\u05dd 12",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%98%d7%a8%d7%90%d7%a1%d7%a7/",
         "post_title": "\u05d8\u05e8\u05d0\u05e1\u05e7",
         "business_type": "\u05d0\u05d5\u05dc\u05dd \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd",
@@ -3189,6 +3630,14 @@
         "post_title": "\u05d9\u05d0\u05dc\u05d4 \u05db\u05e0\u05d0\u05e4\u05d4",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 80",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%99%d7%90%d7%a9%d7%a7%d7%94-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%94%d7%9e%d7%9b%d7%91%d7%99/",
+        "post_title": "\u05d9\u05d0\u05e9\u05e7\u05d4 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05de\u05db\u05d1\u05d9",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05de\u05db\u05d1\u05d9 62",
         "wrap_congregation": ""
     },
     {
@@ -3268,6 +3717,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/",
+        "post_title": "\u05d9\u05d5\u05dd \u05d8\u05d5\u05d1",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d0\u05e6\"\u05dc 70",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%99%d7%95%d7%a0%d7%99%d7%aa%d7%94/",
         "post_title": "\u05d9\u05d5\u05e0\u05d9\u05ea\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
@@ -3294,10 +3752,27 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%99%d7%95%d7%a1%d7%99-%d7%9e%d7%a9%d7%99%d7%97/",
+        "post_title": "\u05d9\u05d5\u05e1\u05d9 \u05de\u05e9\u05d9\u05d7",
+        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e8\u05d5\u05ea \u05d5\u05d9\u05e8\u05e7\u05d5\u05ea",
+        "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 21",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%99%d7%95%d7%a1%d7%a3-%d7%a8%d7%9e%d7%aa-%d7%94%d7%97%d7%99%d7%99%d7%9c/",
         "post_title": "\u05d9\u05d5\u05e1\u05e3 \u05e8\u05de\u05ea \u05d4\u05d7\u05d9\u05d9\u05dc",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 32",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%99%d7%95%d7%a7%d7%95-%d7%a1%d7%95%d7%a9%d7%99-%d7%91%d7%a8/",
+        "post_title": "\u05d9\u05d5\u05e7\u05d5 \u05e1\u05d5\u05e9\u05d9 \u05d1\u05e8",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d0\u05e1\u05d9\u05ea\u05d9\u05ea",
+        "wrap_address": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df 5",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -3337,10 +3812,18 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%99%d7%a2%d7%a7%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%a4%d7%99%d7%aa%d7%95%d7%97/",
+        "post_title": "\u05d9\u05e2\u05e7\u05d1 \u05e2\u05d5\u05d1\u05d3\u05d9\u05d4 \u05e4\u05d9\u05ea\u05d5\u05d7",
+        "business_type": "\u05d1\u05d9\u05ea \u05de\u05dc\u05d5\u05df",
+        "wrap_address": "\u05e9\u05d8\u05d9\u05d1\u05dc 7",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%99%d7%a8%d7%96%d7%99%d7%9f-%d7%a1%d7%9c%d7%a2-%d7%94%d7%97%d7%96%d7%a7%d7%95%d7%aa/",
         "post_title": "\u05d9\u05e8\u05d6\u05d9\u05df \u05e1\u05dc\u05e2 \u05d4\u05d7\u05d6\u05e7\u05d5\u05ea",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e8\u05d5\u05d8\u05e9\u05d9\u05d9\u05dc\u05d3 22",
+        "wrap_address": "\u05e8\u05d5\u05d8\u05e9\u05d9\u05dc\u05d3 22",
         "wrap_congregation": ""
     },
     {
@@ -3382,6 +3865,15 @@
         "post_title": "\u05db\u05d4\u05df \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
         "wrap_address": "\u05d0\u05e6\"\u05dc 49",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9b%d7%94%d7%9f-%d7%a6%d7%91%d7%99/",
+        "post_title": "\u05db\u05d4\u05df \u05e6\u05d1\u05d9",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d1\u05d9\u05ea \u05d0\u05dc 12",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -3558,12 +4050,28 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9c%d7%94-%d7%9e%d7%99%d7%90%d7%9c/",
+        "post_title": "\u05dc\u05d4 \u05de\u05d9\u05d0\u05dc",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d9\u05d3 \u05d7\u05e8\u05d5\u05e6\u05d9\u05dd 14",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9c%d7%94-%d7%a4%d7%95%d7%9c%d7%99%d7%96-%d7%91%d7%a2%d7%9e/",
         "post_title": "\u05dc\u05d4 \u05e4\u05d5\u05dc\u05d9\u05d6 \u05d1\u05e2\"\u05de",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1 12",
         "wrap_congregation": "",
         "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9c%d7%95%d7%90%d7%99%d7%96%d7%94-%d7%a7%d7%a4%d7%94-%d7%90%d7%95%d7%a8%d7%91%d7%a0%d7%99/",
+        "post_title": "\u05dc\u05d5\u05d0\u05d9\u05d6\u05d4 \u05e7\u05e4\u05d4 \u05d0\u05d5\u05e8\u05d1\u05e0\u05d9",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d4\u05de\u05e1\u05d2\u05e8 6",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -3708,6 +4216,14 @@
         "post_title": "\u05dc\u05d7\u05de\u05d9\u05dd \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
         "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 134",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1705881600",
+        "href": "https://rabanut.co.il/business/%d7%9c%d7%97%d7%9e%d7%99%d7%9d-%d7%a1%d7%a0%d7%99%d7%a3-%d7%95%d7%99%d7%9c%d7%a0%d7%a1%d7%a7%d7%99/",
+        "post_title": "\u05dc\u05d7\u05de\u05d9\u05dd \u05e1\u05e0\u05d9\u05e3 \u05d5\u05d9\u05dc\u05e0\u05e1\u05e7\u05d9",
+        "business_type": "\u05de\u05d0\u05e4\u05d9\u05d4",
+        "wrap_address": "\u05de\u05e9\u05d4 \u05d5\u05d9\u05dc\u05e0\u05e1\u05e7\u05d9 17",
         "wrap_congregation": ""
     },
     {
@@ -3902,10 +4418,10 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%90%d7%a4%d7%99%d7%99%d7%aa-%d7%94%d7%a9%d7%9b%d7%95%d7%a0%d7%94/",
-        "post_title": "\u05de\u05d0\u05e4\u05d9\u05d9\u05ea \u05d4\u05e9\u05db\u05d5\u05e0\u05d4",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%90%d7%a4%d7%99%d7%99%d7%aa-%d7%94%d7%aa%d7%a7%d7%95%d7%94-%d7%9e%d7%96%d7%a8%d7%97%d7%99/",
+        "post_title": "\u05de\u05d0\u05e4\u05d9\u05d9\u05ea \u05d4\u05ea\u05e7\u05d5\u05d4 \u05de\u05d6\u05e8\u05d7\u05d9",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
-        "wrap_address": "\u05d1\u05d5\u05e9\u05dd 12",
+        "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 32",
         "wrap_congregation": ""
     },
     {
@@ -3921,7 +4437,24 @@
         "href": "https://rabanut.co.il/business/%d7%9e%d7%90%d7%a4%d7%99%d7%99%d7%aa-%d7%a4%d7%aa-%d7%a9%d7%97%d7%a8%d7%99%d7%aa/",
         "post_title": "\u05de\u05d0\u05e4\u05d9\u05d9\u05ea \u05e4\u05ea \u05e9\u05d7\u05e8\u05d9\u05ea",
         "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
-        "wrap_address": "\u05dc\u05d4 \u05d2\u05e8\u05d3\u05d9\u05d4 76",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 76",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%90%d7%a8-%d7%92%d7%a8%d7%96/",
+        "post_title": "\u05de\u05d0\u05e8 \u05d2'\u05e8\u05d6",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d9\u05d4\u05d5\u05e9\u05e2 \u05d1\u05df \u05e0\u05d5\u05df 79",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%91%d7%a9%d7%9c%d7%99%d7%9d-%d7%97%d7%95%d7%95%d7%99%d7%94/",
+        "post_title": "\u05de\u05d1\u05e9\u05dc\u05d9\u05dd \u05d7\u05d5\u05d5\u05d9\u05d4",
+        "business_type": "\u05d1\u05d9\u05ea \u05e1\u05e4\u05e8 \u05dc\u05d1\u05d9\u05e9\u05d5\u05dc",
+        "wrap_address": "\u05d1\u05df \u05e6\u05d1\u05d9 78",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -3936,46 +4469,10 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%94%d7%a8%d7%95%d7%9f-%d7%91%d7%a7%d7%a8/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d4\u05e8\u05d5\u05df \u05d1\u05e7\u05e8",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05d0\u05d4\u05e8\u05d5\u05df \u05d1\u05e7\u05e8 8",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%95%d7%93-%d7%9e%d7%a8%d7%9b%d7%95%d7%a1/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d5\u05d3 \u05de\u05e8\u05db\u05d5\u05e1",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05d3\u05d5\u05d3 \u05de\u05e8\u05db\u05d5\u05e1 13",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 7",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3-%d7%a1%d7%a0%d7%98%d7%a8/",
         "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 \u05e1\u05e0\u05d8\u05e8",
         "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
         "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 50",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%95%d7%99%d7%a6%d7%9e%d7%9f/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05d5\u05d9\u05e6\u05de\u05df",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 20",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -3999,15 +4496,6 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a2%d7%a4%d7%99%d7%9c%d7%99-%d7%90%d7%92%d7%95%d7%96/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05de\u05e2\u05e4\u05d9\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d6",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05de\u05e2\u05e4\u05d9\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d6",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a0%d7%99%d7%a1%d7%99%d7%9d-%d7%90%d7%9c%d7%95%d7%a0%d7%99/",
         "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05e0\u05d9\u05e1\u05d9\u05dd \u05d0\u05dc\u05d5\u05e0\u05d9",
         "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
@@ -4021,15 +4509,6 @@
         "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05e2\u05d5\u05d3\u05d3",
         "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
         "wrap_address": "\u05e2\u05d5\u05d3\u05d3 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%91%d7%a2%d7%99%d7%a8-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a2%d7%9e%d7%a7-%d7%91%d7%a8%d7%9b%d7%94/",
-        "post_title": "\u05de\u05d2\u05d4 \u05d1\u05e2\u05d9\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05e2\u05de\u05e7 \u05d1\u05e8\u05db\u05d4",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05e2\u05de\u05e7 \u05d1\u05e8\u05db\u05d4 25",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -4058,15 +4537,6 @@
         "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
         "wrap_address": "\u05d2\u05e8\u05d9\u05e0\u05d1\u05d5\u05d9\u05dd 45",
         "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%92%d7%94-%d7%9e%d7%92%d7%93%d7%9c%d7%99-%d7%93%d7%95%d7%93/",
-        "post_title": "\u05de\u05d2\u05d4 \u05de\u05d2\u05d3\u05dc\u05d9 \u05d3\u05d5\u05d3",
-        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
-        "wrap_address": "\u05d0\u05d5\u05e8\u05d9 12",
-        "wrap_congregation": "",
-        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -4162,6 +4632,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%96%d7%9c-%d7%95%d7%91%d7%a8%d7%9b%d7%94/",
+        "post_title": "\u05de\u05d6\u05dc \u05d5\u05d1\u05e8\u05db\u05d4",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05dc\u05d5\u05d9\u05d5\u05ea 45",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%96%d7%a0%d7%95%d7%9f-%d7%94%d7%95%d7%9c%d7%a5/",
         "post_title": "\u05de\u05d6\u05e0\u05d5\u05df \u05d4\u05d5\u05dc\u05e5",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9/\u05d7\u05dc\u05d1\u05d9",
@@ -4184,6 +4662,24 @@
         "post_title": "\u05de\u05d7\u05dc\u05d1\u05ea \u05d3\u05e9\u05df \u05d4\u05e8\u05d1 \u05d4\u05d7\u05dc\u05d1\u05df \u05d7\u05e0\u05d5\u05ea \u05d4\u05de\u05e4\u05e2\u05dc",
         "business_type": "\u05de\u05e2\u05d3\u05e0\u05d9\u05d4",
         "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 161",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%97%d7%a1%d7%a0%d7%99-%d7%9c%d7%94%d7%91-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%99%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f/",
+        "post_title": "\u05de\u05d7\u05e1\u05e0\u05d9 \u05dc\u05d4\u05d1 \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d0\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df 64",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%97%d7%a1%d7%a0%d7%99-%d7%9c%d7%94%d7%91-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%9c%d7%95%d7%97%d7%9e%d7%99%d7%9d/",
+        "post_title": "\u05de\u05d7\u05e1\u05e0\u05d9 \u05dc\u05d4\u05d1 \u05e1\u05e0\u05d9\u05e3 \u05d4\u05dc\u05d5\u05d7\u05de\u05d9\u05dd",
+        "business_type": "\u05e8\u05e9\u05ea\u05d5\u05ea \u05e9\u05d9\u05d5\u05d5\u05e7",
+        "wrap_address": "\u05d4\u05dc\u05d5\u05d7\u05de\u05d9\u05dd 1",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -4228,14 +4724,6 @@
         "post_title": "\u05de\u05d9\u05d5\u05df / ITS FRESH",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 6",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%99%d7%98%d7%9e%d7%9f-%d7%a4%d7%95%d7%a4-%d7%90%d7%a4/",
-        "post_title": "\u05de\u05d9\u05d8\u05de\u05df \u05e4\u05d5\u05e4 \u05d0\u05e4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e7\u05dc\u05de\u05df \u05de\u05d2\u05df 3",
         "wrap_congregation": ""
     },
     {
@@ -4286,6 +4774,15 @@
         "post_title": "\u05de\u05d9\u05e1\u05d8\u05e8 \u05e4\u05e2\u05e8\u05e6\u05dc",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%99%d7%a6%d7%9c%d7%99/",
+        "post_title": "\u05de\u05d9\u05e6\u05dc\u05d9",
+        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05de\u05d9\u05e6\u05d9\u05dd",
+        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 24",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -4442,6 +4939,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a0%d7%98%d7%99/",
+        "post_title": "\u05de\u05e0\u05d8\u05d9",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
+        "wrap_address": "\u05e9\u05d3' \u05de\u05e1\u05e8\u05d9\u05e7 16",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%a0%d7%99-%d7%a8%d7%95%d7%9c/",
         "post_title": "\u05de\u05e0\u05d9 \u05e8\u05d5\u05dc",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -4450,12 +4955,19 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%a1%d7%91%d7%97%d7%94/",
-        "post_title": "\u05de\u05e1\u05d1\u05d7\u05d4",
-        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
-        "wrap_address": "\u05dc\u05d1\u05d5\u05e0\u05d8\u05d9\u05df 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a0%d7%99%d7%95-menu/",
+        "post_title": "\u05de\u05e0\u05d9\u05d5 menu",
+        "business_type": "\u05d1\u05d9\u05ea \u05e1\u05e4\u05e8 \u05dc\u05d1\u05d9\u05e9\u05d5\u05dc",
+        "wrap_address": "\u05e7\u05d5\u05de\u05e4\u05d5\u05e8\u05d8 14",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a1%d7%a2%d7%93%d7%aa-%d7%97%d7%9f-%d7%94%d7%9e%d7%97%d7%95%d7%93%d7%a9%d7%aa/",
+        "post_title": "\u05de\u05e1\u05e2\u05d3\u05ea \u05d7\u05df \u05d4\u05de\u05d7\u05d5\u05d3\u05e9\u05ea",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d0\u05dc\u05d5\u05e3 \u05d3\u05df \u05dc\u05e0\u05e8 19",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -4560,6 +5072,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%95%d7%94%d7%a9%d7%95%d7%95%d7%90%d7%a8%d7%9e%d7%94/",
+        "post_title": "\u05de\u05e4\u05d2\u05e9 \u05d4\u05e4\u05dc\u05d0\u05e4\u05dc \u05d5\u05d4\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4",
+        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
+        "wrap_address": "\u05d0\u05e6\"\u05dc 38",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%a4%d7%a2%d7%9c-%d7%90%d7%99%d7%a7%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
         "post_title": "\u05de\u05e4\u05e2\u05dc \u05d0\u05d9\u05e7\u05d4 \u05e9\u05d5\u05e7\u05d5\u05dc\u05d3",
         "business_type": "\u05de\u05e4\u05e2\u05dc",
@@ -4569,18 +5089,10 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%a7%d7%93%d7%95%d7%a0%d7%9c%d7%93%d7%a1-%d7%a1%d7%a0%d7%99%d7%a3-%d7%92%d7%99%d7%a0%d7%93%d7%99-tlv/",
-        "post_title": "\u05de\u05e7\u05d3\u05d5\u05e0\u05dc\u05d3\u05e1 \u05e1\u05e0\u05d9\u05e3 \u05d2\u05d9\u05e0\u05d3\u05d9 TLV",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a7%d7%93%d7%95%d7%a0%d7%9c%d7%93%d7%a1-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%95%d7%a0%d7%99%d7%91%d7%a8%d7%a1%d7%99%d7%98%d7%aa-%d7%aa%d7%9c-%d7%90%d7%91%d7%99%d7%91/",
+        "post_title": "\u05de\u05e7\u05d3\u05d5\u05e0\u05dc\u05d3\u05e1 \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd 89",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%a7%d7%93%d7%95%d7%a0%d7%9c%d7%93%d7%a1-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3/",
-        "post_title": "\u05de\u05e7\u05d3\u05d5\u05e0\u05dc\u05d3\u05e1 \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 50",
+        "wrap_address": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
         "wrap_congregation": ""
     },
     {
@@ -4647,6 +5159,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%9e%d7%a8%d7%9b%d7%96-%d7%90%d7%a1%d7%99%d7%94/",
+        "post_title": "\u05de\u05e8\u05db\u05d6 \u05d0\u05e1\u05d9\u05d4",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05de\u05e1\u05d9\u05dc\u05ea \u05d9\u05e9\u05e8\u05d9\u05dd 41",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%9e%d7%a8%d7%9b%d7%96-%d7%92%d7%a8%d7%99%d7%90%d7%98%d7%99-%d7%a0%d7%90%d7%95%d7%aa-%d7%94%d7%aa%d7%99%d7%9b%d7%95%d7%9f/",
         "post_title": "\u05de\u05e8\u05db\u05d6 \u05d2\u05e8\u05d9\u05d0\u05d8\u05d9 \u05e0\u05d0\u05d5\u05ea \u05d4\u05ea\u05d9\u05db\u05d5\u05df",
         "business_type": "\u05d1\u05d9\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd",
@@ -4662,14 +5183,6 @@
         "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 44",
         "wrap_congregation": "",
         "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94/",
-        "post_title": "\u05de\u05e8\u05db\u05d6 \u05d4\u05e2\u05d2\u05d1\u05e0\u05d9\u05d4",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df",
-        "wrap_address": "\u05d4\u05db\u05e8\u05de\u05dc 11",
-        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -4738,15 +5251,6 @@
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 20",
         "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%9e%d7%aa%d7%95%d7%a7%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%a8%d7%a6%d7%9c/",
-        "post_title": "\u05de\u05ea\u05d5\u05e7\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d4\u05e8\u05e6\u05dc",
-        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
-        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 18",
-        "wrap_congregation": "",
-        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -4835,6 +5339,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a0%d7%99%d7%95-%d7%91%d7%a8-%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%9e%d7%96%d7%95%d7%9f-%d7%91%d7%a2%d7%9e/",
+        "post_title": "\u05e0\u05d9\u05d5 \u05d1\u05e8 \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05de\u05d6\u05d5\u05df \u05d1\u05e2\"\u05de",
+        "business_type": "\u05e7\u05d9\u05d9\u05d8\u05e8\u05d9\u05e0\u05d2",
+        "wrap_address": "\u05e9\u05d3' \u05e8\u05d5\u05e7\u05d7 101",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a0%d7%99%d7%95-%d7%93%d7%9c%d7%94%d7%99/",
         "post_title": "\u05e0\u05d9\u05d5 \u05d3\u05dc\u05d4\u05d9",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -4887,6 +5399,14 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a0%d7%99%d7%a1%d7%99%d7%9d-%d7%aa-%d7%90-%d7%a7/",
+        "post_title": "\u05e0\u05d9\u05e1\u05d9\u05dd \u05ea.\u05d0.\u05e7",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d4\u05de\u05d7\u05d5\u05d2\u05d4 13",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a0%d7%99%d7%a1%d7%9f-%d7%a7%d7%98%d7%99%d7%99%d7%91/",
         "post_title": "\u05e0\u05d9\u05e1\u05df \u05e7\u05d8\u05d9\u05d9\u05d1",
         "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
@@ -4896,10 +5416,27 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a0%d7%a2%d7%a0%d7%a2-%d7%a7%d7%a4%d7%94-%d7%a1%d7%a0%d7%93%d7%95%d7%95%d7%99%d7%a5-%d7%91%d7%a8/",
+        "post_title": "\u05e0\u05e2\u05e0\u05e2 \u05e7\u05e4\u05d4 \u05e1\u05e0\u05d3\u05d5\u05d5\u05d9\u05e5 \u05d1\u05e8",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 125",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a0%d7%a7%d7%95%d7%93%d7%aa-%d7%9c%d7%97%d7%9d/",
         "post_title": "\u05e0\u05e7\u05d5\u05d3\u05ea \u05dc\u05d7\u05dd",
         "business_type": "\u05de\u05d0\u05e4\u05d9\u05d4",
         "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 10",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a0%d7%aa%d7%97-%d7%a7%d7%a6%d7%91%d7%99%d7%9d/",
+        "post_title": "\u05e0\u05ea\u05d7 \u05e7\u05e6\u05d1\u05d9\u05dd",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05d0\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df 7",
         "wrap_congregation": ""
     },
     {
@@ -4956,23 +5493,7 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f/",
-        "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 64",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-3/",
-        "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
-        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
-        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05de\u05e8\u05d2\u05d5\u05d6\u05d4 4",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-2/",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-4/",
         "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
         "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
         "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 1",
@@ -4980,7 +5501,23 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-5/",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f/",
+        "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
+        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 64",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-2/",
+        "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
+        "business_type": "\u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4",
+        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05de\u05e8\u05d2\u05d5\u05d6\u05d4 4",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-3/",
         "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
         "wrap_address": "\u05dc\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9 57",
@@ -4988,7 +5525,7 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-%d7%94%d7%9b%d7%a8%d7%9e%d7%9c-2/",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%91%d7%99%d7%97-%d7%a4%d7%a8%d7%99%d7%a9%d7%9e%d7%9f-%d7%94%d7%9b%d7%a8%d7%9e%d7%9c/",
         "post_title": "\u05e1\u05d1\u05d9\u05d7 \u05e4\u05e8\u05d9\u05e9\u05de\u05df \u05d4\u05db\u05e8\u05de\u05dc",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
         "wrap_address": "\u05de\u05dc\"\u05df 45",
@@ -5084,8 +5621,25 @@
         "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%9c%d7%99%d7%a7%d7%94/",
         "post_title": "\u05e1\u05d5\u05dc\u05d9\u05e7\u05d4",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9/\u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05d0\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df 7",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%9c%d7%99%d7%a7%d7%94-2/",
+        "post_title": "\u05e1\u05d5\u05dc\u05d9\u05e7\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 19",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%9c%d7%99%d7%a7%d7%94-%d7%91%d7%a7%d7%a9%d7%aa/",
+        "post_title": "\u05e1\u05d5\u05dc\u05d9\u05e7\u05d4 \u05d1\u05e7\u05e9\u05ea",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea/\u05d7\u05dc\u05d1\u05d9\u05ea",
+        "wrap_address": "\u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2 12",
         "wrap_congregation": ""
     },
     {
@@ -5106,18 +5660,18 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%a4%d7%98-%d7%a7%d7%95%d7%a7%d7%99%d7%a1/",
-        "post_title": "\u05e1\u05d5\u05e4\u05d8 \u05e7\u05d5\u05e7\u05d9\u05e1",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%a4%d7%98-%d7%a7%d7%95%d7%a7%d7%99%d7%a1-2/",
         "post_title": "\u05e1\u05d5\u05e4\u05d8 \u05e7\u05d5\u05e7\u05d9\u05e1",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05d0\u05dc\u05e0\u05d1\u05d9 60",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%95%d7%a4%d7%98-%d7%a7%d7%95%d7%a7%d7%99%d7%a1/",
+        "post_title": "\u05e1\u05d5\u05e4\u05d8 \u05e7\u05d5\u05e7\u05d9\u05e1",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
         "wrap_congregation": ""
     },
     {
@@ -5194,28 +5748,20 @@
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%99%d7%91%d7%99-%d7%a8%d7%95%d7%a4-%d7%98%d7%95%d7%a4/",
-        "post_title": "\u05e1\u05d9\u05d1\u05d9 \u05e8\u05d5\u05e4 \u05d8\u05d5\u05e4",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9/\u05e4\u05e8\u05d5\u05d5\u05d4",
-        "wrap_address": "\u05e8\u05e6\u05d9\u05e3 \u05d4\u05e8\u05d1\u05e8\u05d8 \u05e1\u05de\u05d5\u05d0\u05dc 78",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a1%d7%99%d7%aa%d7%99-%d7%91%d7%95%d7%9c%d7%95%d7%a0%d7%96%d7%a8%d7%99/",
         "post_title": "\u05e1\u05d9\u05ea\u05d9 \u05d1\u05d5\u05dc\u05d5\u05e0\u05d6'\u05e8\u05d9",
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05e9\u05d8\u05e8\u05d9\u05e7\u05e8 46",
-        "wrap_congregation": ""
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a1%d7%9e%d7%a8%d7%a7%d7%a0%d7%93-2/",
-        "post_title": "\u05e1\u05de\u05e8\u05e7\u05e0\u05d3",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d1\u05df \u05e6\u05d1\u05d9 34",
-        "wrap_congregation": "",
-        "wrap_phone": ""
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%9c%d7%98%d7%95%d7%a1%d7%98/",
+        "post_title": "\u05e1\u05dc\u05d8\u05d5\u05e1\u05d8",
+        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
+        "wrap_address": "\u05d0\u05d1\u05e8\u05d1\u05e0\u05d0\u05dc 35",
+        "wrap_congregation": ""
     },
     {
         "kosher_date": "1713657600",
@@ -5223,6 +5769,15 @@
         "post_title": "\u05e1\u05de\u05e8\u05e7\u05e0\u05d3",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
         "wrap_address": "\u05d1\u05df \u05e6\u05d1\u05d9 36",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a1%d7%9e%d7%a8%d7%a7%d7%a0%d7%93-2/",
+        "post_title": "\u05e1\u05de\u05e8\u05e7\u05e0\u05d3",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05d1\u05df \u05e6\u05d1\u05d9 34",
         "wrap_congregation": "",
         "wrap_phone": ""
     },
@@ -5241,6 +5796,15 @@
         "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
         "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 94",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a2%d7%93-120/",
+        "post_title": "\u05e2\u05d3 120",
+        "business_type": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d5\u05ea",
+        "wrap_address": "\u05e8\u05d0\u05d5\u05dc \u05d5\u05dc\u05e0\u05d1\u05e8\u05d2 32",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -5286,6 +5850,15 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a2%d7%96%d7%a8%d7%90-%d7%a2%d7%99%d7%93%d7%94-%d7%95%d7%91%d7%a0%d7%99%d7%95/",
+        "post_title": "\u05e2\u05d6\u05e8\u05d0 \u05e2\u05d9\u05d3\u05d4 \u05d5\u05d1\u05e0\u05d9\u05d5",
+        "business_type": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d6",
+        "wrap_address": "\u05e0\u05d5\u05e8\u05d9\u05d0\u05dc 11",
+        "wrap_congregation": "",
+        "wrap_phone": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a2%d7%9c-%d7%94%d7%9e%d7%97%d7%99%d7%94/",
         "post_title": "\u05e2\u05dc \u05d4\u05de\u05d7\u05d9\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
@@ -5313,7 +5886,7 @@
         "href": "https://rabanut.co.il/business/%d7%a4%d7%90%d7%91%d7%9c%d7%94/",
         "post_title": "\u05e4\u05d0\u05d1\u05dc\u05d4",
         "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05e8\u05d3\u05d9\u05d4 64",
+        "wrap_address": "\u05dc\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d3\u05d9\u05d4 64",
         "wrap_congregation": ""
     },
     {
@@ -5504,11 +6077,28 @@
     },
     {
         "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%98%d7%a6%d7%a8/",
+        "post_title": "\u05e4\u05d9\u05d8\u05e6'\u05e8",
+        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
+        "wrap_address": "\u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1 64",
+        "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
         "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a0%d7%95%d7%aa-%d7%a7%d7%a4%d7%94-%d7%90%d7%99%d7%9c%d7%a0%d7%a1/",
         "post_title": "\u05e4\u05d9\u05e0\u05d5\u05ea \u05e7\u05e4\u05d4' (\u05d0\u05d9\u05dc\u05e0\u05e1)",
         "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
         "wrap_address": "\u05e7\u05e8\u05dc\u05d9\u05d1\u05da 2",
         "wrap_congregation": ""
+    },
+    {
+        "kosher_date": "1713657600",
+        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a0%d7%aa-%d7%90%d7%95%d7%9b%d7%9c/",
+        "post_title": "\u05e4\u05d9\u05e0\u05ea \u05d0\u05d5\u05db\u05dc",
+        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
+        "wrap_address": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df 5",
+        "wrap_congregation": "",
+        "wrap_phone": ""
     },
     {
         "kosher_date": "1713657600",
@@ -5535,614 +6125,5 @@
         "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 24",
         "wrap_congregation": "",
         "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%90%d7%a0%d7%93-%d7%98%d7%95%d7%a8%d7%98%d7%99%d7%99%d7%94/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d0\u05e0\u05d3 \u05d8\u05d5\u05e8\u05d8\u05d9\u05d9\u05d4",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d0\u05dc\u05e0\u05d1\u05d9 79",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%92%d7%90%d7%a8%d7%90%d7%92/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d2\u05d0\u05e8\u05d0\u05d2'",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd 90",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%93%d7%95%d7%9e%d7%99%d7%a0%d7%95-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9c%d7%a1%d7%a7%d7%95%d7%91/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d3\u05d5\u05de\u05d9\u05e0\u05d5 \u05e1\u05e0\u05d9\u05e3 \u05dc\u05e1\u05e7\u05d5\u05d1",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05dc\u05e1\u05e7\u05d5\u05d1 4",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%93%d7%95%d7%a0%d7%98%d7%9c%d7%95/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d3\u05d5\u05e0\u05d8\u05dc\u05d5",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 123",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%94%d7%90%d7%98-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%97%d7%a9%d7%9e%d7%95%d7%a0%d7%90%d7%99%d7%9d/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d4\u05d0\u05d8  \u05e1\u05e0\u05d9\u05e3 \u05d4\u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d4\u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd 99",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%94%d7%90%d7%98-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%a0%d7%97%d7%95%d7%a9%d7%aa/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d4\u05d0\u05d8 \u05e1\u05e0\u05d9\u05e3 \u05d4\u05e0\u05d7\u05d5\u05e9\u05ea",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d4\u05e0\u05d7\u05d5\u05e9\u05ea 1",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%94%d7%90%d7%98-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a0%d7%97%d7%9c%d7%aa-%d7%99%d7%a6%d7%97%d7%a7/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d4\u05d0\u05d8 \u05e1\u05e0\u05d9\u05e3 \u05e0\u05d7\u05dc\u05ea \u05d9\u05e6\u05d7\u05e7",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05e0\u05d7\u05dc\u05ea \u05d9\u05e6\u05d7\u05e7 18",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%96%d7%95%d7%aa%d7%90/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d6\u05d5\u05ea\u05d0",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05de\u05d0\u05d9\u05e8 \u05d9\u05e2\u05e8\u05d9 19",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%aa/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d7\u05e9\u05de\u05dc\u05d9\u05ea",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%98%d7%95%d7%9e%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05d8\u05d5\u05de\u05d9",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d0\u05dc\u05e0\u05d1\u05d9 113",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a0%d7%98%d7%95-%d7%a4%d7%a8%d7%92%d7%95/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e0\u05d8\u05d5 \u05e4\u05e8\u05d2\u05d5",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05e4\u05e0\u05d7\u05e1 \u05e8\u05d5\u05d6\u05df 72",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%91%d7%9f-%d7%92%d7%91%d7%99%d7%a8%d7%95%d7%9c/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e2\u05d2\u05d1\u05e0\u05d9\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 88",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%91%d7%a8%d7%95%d7%93%d7%a6%d7%a7%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e2\u05d2\u05d1\u05e0\u05d9\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d1\u05e8\u05d5\u05d3\u05e6\u05e7\u05d9",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d1\u05e8\u05d5\u05d3\u05e6\u05e7\u05d9 43",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e2\u05d2\u05d1\u05e0\u05d9\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 50",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a9%d7%99%d7%a0%d7%a7%d7%99%d7%9f/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e2\u05d2\u05d1\u05e0\u05d9\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05e9\u05d9\u05e0\u05e7\u05d9\u05df",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05e9\u05d9\u05e0\u05e7\u05d9\u05df 19",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a4%d7%99%d7%a0%d7%95-%d7%a1%d7%a0%d7%99%d7%a3-%d7%90%d7%91%d7%90-%d7%90%d7%97%d7%99%d7%9e%d7%90%d7%99%d7%a8/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e4\u05d9\u05e0\u05d5 \u05e1\u05e0\u05d9\u05e3 \u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d0\u05d1\u05d0 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 21",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a4%d7%99%d7%a0%d7%95-%d7%a1%d7%a0%d7%99%d7%a3-%d7%91%d7%9f-%d7%99%d7%94%d7%95%d7%93%d7%94/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e4\u05d9\u05e0\u05d5 \u05e1\u05e0\u05d9\u05e3 \u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4 169",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a9%d7%9e%d7%a9/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05e0\u05d2\u05d1\u05d4 1",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a9%d7%9e%d7%a9-2/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05dc\u05d5\u05d9 49",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a9%d7%9e%d7%a9-%d7%a1%d7%a0%d7%99%d7%a3-%d7%91%d7%99%d7%aa-%d7%90%d7%9c/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9 \u05e1\u05e0\u05d9\u05e3 \u05d1\u05d9\u05ea \u05d0\u05dc",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d1\u05d9\u05ea \u05d0\u05dc 12",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%94-%d7%a9%d7%9e%d7%a9-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9 \u05e1\u05e0\u05d9\u05e3 \u05de\u05d7\u05e8\u05d5\u05d6\u05ea",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea 26",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%95%d7%97%d7%99-%d7%90%d7%9e%d7%95%d7%a0%d7%94/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d5\u05d7\u05d9 \u05d0\u05de\u05d5\u05e0\u05d4",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e6\u05d5\u05d7\u05d9\u05dd",
-        "wrap_address": "\u05d7\u05e0\u05d5\u05da 37",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%95%d7%97%d7%99-%d7%9e%d7%90%d7%99%d7%a8/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d5\u05d7\u05d9 \u05de\u05d0\u05d9\u05e8",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e6\u05d5\u05d7\u05d9\u05dd",
-        "wrap_address": "\u05e9\u05d3' \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 62",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%95%d7%97%d7%99-%d7%9e%d7%94-%d7%a2%d7%95%d7%93-%d7%92%d7%a8%d7%a2%d7%99%d7%a0%d7%99-%d7%99%d7%95%d7%a1%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d5\u05d7\u05d9 \u05de\u05d4 \u05e2\u05d5\u05d3 (\u05d2\u05e8\u05e2\u05d9\u05e0\u05d9 \u05d9\u05d5\u05e1\u05d9)",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e6\u05d5\u05d7\u05d9\u05dd",
-        "wrap_address": "\u05d0\u05e6\"\u05dc 4",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%95%d7%97%d7%99-%d7%9e%d7%95%d7%9c%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d5\u05d7\u05d9 \u05de\u05d5\u05dc\u05d9",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e6\u05d5\u05d7\u05d9\u05dd",
-        "wrap_address": "\u05d4\u05d7\u05dc\u05d5\u05e6\u05d9\u05dd 4",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%95%d7%97%d7%99-%d7%a9%d7%90%d7%93%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e6\u05d5\u05d7\u05d9 \u05e9\u05d0\u05d3\u05d9",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e6\u05d5\u05d7\u05d9\u05dd",
-        "wrap_address": "\u05d4\u05ea\u05e7\u05d5\u05d5\u05d4 19",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%9e%d7%9c%d7%94/",
-        "post_title": "\u05e4\u05d9\u05e6\u05de\u05dc\u05d4",
-        "business_type": "\u05e7\u05d5\u05e0\u05d3\u05d8\u05d5\u05e8\u05d9\u05d4",
-        "wrap_address": "\u05d4\u05d2\u05d3\u05d5\u05d3 \u05d4\u05e2\u05d1\u05e8\u05d9 22",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a6%d7%a8%d7%99%d7%aa-%d7%94%d7%92%d7%95%d7%a9/",
-        "post_title": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05ea \u05d4\u05d2\u05d5\u05e9",
-        "business_type": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d9\u05d4",
-        "wrap_address": "\u05d9\u05d0\u05e9\u05d4 \u05d7\u05e4\u05e5 9",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a7%d7%a0%d7%a1%d7%99%d7%9f-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a7%d7%a0%d7%99%d7%95%d7%9f-%d7%a2%d7%96%d7%a8%d7%99%d7%90%d7%9c%d7%99/",
-        "post_title": "\u05e4\u05d9\u05e7\u05e0\u05e1\u05d9\u05df \u05e1\u05e0\u05d9\u05e3 \u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9 \u05e7\u05d5\u05de\u05d4 1",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a8%d7%95%d7%aa-%d7%94%d7%90%d7%a8%d7%a5/",
-        "post_title": "\u05e4\u05d9\u05e8\u05d5\u05ea \u05d4\u05d0\u05e8\u05e5",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e8\u05d5\u05ea \u05d5\u05d9\u05e8\u05e7\u05d5\u05ea",
-        "wrap_address": "\u05e9\u05d3' \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 33",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a8%d7%95%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
-        "post_title": "\u05e4\u05d9\u05e8\u05d5\u05ea \u05d4\u05e4\u05d0\u05e8\u05e7",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05e4\u05d9\u05e8\u05d5\u05ea \u05d5\u05d9\u05e8\u05e7\u05d5\u05ea",
-        "wrap_address": "\u05d1\u05d5\u05e9\u05dd 62",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a9-%d7%90%d7%a0%d7%93-%d7%a6%d7%99%d7%a4%d7%a1/",
-        "post_title": "\u05e4\u05d9\u05e9 \u05d0\u05e0\u05d3 \u05e6'\u05d9\u05e4\u05e1",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05ea \u05d3\u05d2\u05d9\u05dd",
-        "wrap_address": "\u05d9\u05d5\u05dd \u05d8\u05d5\u05d1 7",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%a9-%d7%9e%d7%a8%d7%a7%d7%98-%d7%a1%d7%a0%d7%99%d7%a3-%d7%95%d7%99%d7%a6%d7%9e%d7%9f/",
-        "post_title": "\u05e4\u05d9\u05e9 \u05de\u05e8\u05e7\u05d8 \u05e1\u05e0\u05d9\u05e3 \u05d5\u05d9\u05e6\u05de\u05df",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d3\u05d2\u05d9\u05dd",
-        "wrap_address": "\u05d5\u05d9\u05e6\u05de\u05df 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%aa%d7%94-%d7%91%d7%a1%d7%98%d7%94/",
-        "post_title": "\u05e4\u05d9\u05ea\u05d4 \u05d1\u05e1\u05d8\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e7\u05dc\u05de\u05df \u05de\u05d2\u05df 3",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%aa%d7%94-%d7%93%d7%99%d7%96%d7%99%d7%a0%d7%92%d7%95%d7%a3/",
-        "post_title": "\u05e4\u05d9\u05ea\u05d4 \u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9",
-        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 112",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%aa%d7%94-%d7%9e%d7%95%d7%a0%d7%98%d7%a0%d7%94/",
-        "post_title": "\u05e4\u05d9\u05ea\u05d4 \u05de\u05d5\u05e0\u05d8\u05e0\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d4\u05ea\u05e2\u05e8\u05d5\u05db\u05d4 3",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%aa%d7%94-%d7%9e%d7%97%d7%a0%d7%94/",
-        "post_title": "\u05e4\u05d9\u05ea\u05d4 \u05de\u05d7\u05e0\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d1\u05d9\u05ea \u05d0\u05e9\u05dc 3",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%99%d7%aa%d7%94-%d7%a4%d7%99%d7%aa%d7%94/",
-        "post_title": "\u05e4\u05d9\u05ea\u05d4 \u05e4\u05d9\u05ea\u05d4",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d1\u05e9\u05e8\u05d9",
-        "wrap_address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05de\u05e8\u05d2\u05d5\u05d6\u05d4 4",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%90-%d7%90/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d0.\u05d0.",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d4\u05dc\u05d5\u05d7\u05de\u05d9\u05dd 11",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%90%d7%9c%d7%a2%d7%93/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d0\u05dc\u05e2\u05d3",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05e8\u05de\u05d1\"\u05dd 2",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%90%d7%a8%d7%91%d7%a2-%d7%98%d7%a2%d7%9e%d7%99%d7%9d/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d0\u05e8\u05d1\u05e2 \u05d8\u05e2\u05de\u05d9\u05dd",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 94",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%91%d7%a0%d7%99%d7%9f/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d1\u05e0\u05d9\u05df",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d8\u05e9\u05e8\u05e0\u05d7\u05d5\u05d1\u05e1\u05e7\u05d9 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%91%d7%a8%d7%99%d7%91%d7%95%d7%a2/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d1\u05e8\u05d9\u05d1\u05d5\u05e2",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d9\u05d3 \u05d7\u05e8\u05d5\u05e6\u05d9\u05dd 15",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%92%d7%99%d7%a0%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%aa%d7%97%d7%99%d7%94/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d2'\u05d9\u05e0\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05d4\u05ea\u05d7\u05d9\u05d4",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d4\u05ea\u05d7\u05d9\u05d4 15",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%92%d7%99%d7%a0%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%92%d7%99%d7%9f/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d2'\u05d9\u05e0\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 126",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%92%d7%99%d7%a0%d7%94-%d7%a1%d7%a0%d7%99%d7%a3-%d7%a9%d7%95%d7%a7%d7%9f/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d2'\u05d9\u05e0\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05e9\u05d5\u05e7\u05df",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05e9\u05d5\u05e7\u05df 22",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%92%d7%91%d7%90%d7%99-%d7%a1%d7%a0%d7%99%d7%a3-%d7%91%d7%95%d7%92%d7%a8%d7%a9%d7%95%d7%91/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d2\u05d1\u05d0\u05d9 \u05e1\u05e0\u05d9\u05e3 \u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1 25",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%93%d7%a0%d7%99/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d3\u05e0\u05d9",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05e2\u05d5\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df 5",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%94%d7%9e%d7%9c%d7%9b%d7%94/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d4\u05de\u05dc\u05db\u05d4",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d3\u05d9\u05d6\u05d9\u05e0\u05d2\u05d5\u05e3 167",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%94%d7%a9%d7%a8%d7%95%d7%9f/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d4\u05e9\u05e8\u05d5\u05df",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05e0\u05d7\u05dc\u05ea \u05d1\u05e0\u05d9\u05de\u05d9\u05df 61",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%a8%d7%a6%d7%95%d7%9f/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05e8\u05e6\u05d5\u05df",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05e7\u05d9\u05e0\u05d2 \u05d2'\u05d5\u05e8\u05d2' 17",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%a9%d7%9c%d7%9e%d7%94-%d7%95%d7%91%d7%a0%d7%99%d7%95/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05e9\u05dc\u05de\u05d4 \u05d5\u05d1\u05e0\u05d9\u05d5",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4 232",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%a9%d7%a8%d7%a2%d7%91%d7%99/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05e9\u05e8\u05e2\u05d1\u05d9",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d3\u05e8\u05da \u05dc\u05d5\u05d3 91",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%90%d7%a4%d7%9c-%d7%aa%d7%93%d7%9e%d7%95%d7%a8/",
-        "post_title": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05ea\u05d3\u05de\u05d5\u05e8",
-        "business_type": "\u05e4\u05dc\u05d0\u05e4\u05dc",
-        "wrap_address": "\u05d3\u05e8\u05da \u05e9\u05dc\u05de\u05d4 100",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%95%d7%a8%d7%a0%d7%98%d7%99%d7%9f-%d7%91%d7%95%d7%a8%d7%92%d7%a8/",
-        "post_title": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df \u05d1\u05d5\u05e8\u05d2\u05e8",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df 5",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%99%d7%99-%d7%a2%d7%95%d7%a3/",
-        "post_title": "\u05e4\u05dc\u05d9\u05d9 \u05e2\u05d5\u05e3",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 51",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%99%d7%99%d7%a9%d7%9e%d7%9f-%d7%a1%d7%a0%d7%99%d7%a3-%d7%94%d7%a8%d7%a6%d7%9c/",
-        "post_title": "\u05e4\u05dc\u05d9\u05d9\u05e9\u05de\u05df \u05e1\u05e0\u05d9\u05e3 \u05d4\u05e8\u05e6\u05dc",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d4\u05e8\u05e6\u05dc 12",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9c%d7%9e%d7%97/",
-        "post_title": "\u05e4\u05dc\u05de\u05d7",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05d7\u05d9\u05d9\u05dd \u05dc\u05d1\u05e0\u05d5\u05df 10",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%9d-%d7%a4%d7%9d/",
-        "post_title": "\u05e4\u05dd \u05e4\u05dd",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc 30",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a0%d7%94-%d7%a4%d7%a1%d7%98%d7%94/",
-        "post_title": "\u05e4\u05e0\u05d4 \u05e4\u05e1\u05d8\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
-        "wrap_address": "\u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1 21",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a1%d7%98%d7%94-%d7%91%d7%a1%d7%98%d7%94/",
-        "post_title": "\u05e4\u05e1\u05d8\u05d4 \u05d1\u05e1\u05d8\u05d4",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
-        "wrap_address": "\u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd 96",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a1%d7%98%d7%94-%d7%91%d7%a1%d7%98%d7%94-%d7%9e%d7%aa%d7%95%d7%a7-%d7%9c%d7%99-%d7%91%d7%9e%d7%a8%d7%99%d7%a0%d7%94/",
-        "post_title": "\u05e4\u05e1\u05d8\u05d4 \u05d1\u05e1\u05d8\u05d4 (\u05de\u05ea\u05d5\u05e7 \u05dc\u05d9 \u05d1\u05de\u05e8\u05d9\u05e0\u05d4)",
-        "business_type": "\u05de\u05d6\u05e0\u05d5\u05df \u05d7\u05dc\u05d1\u05d9",
-        "wrap_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9 \u05e7\u05d5\u05de\u05d4 2",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a1%d7%98%d7%99%d7%98%d7%95/",
-        "post_title": "\u05e4\u05e1\u05d8\u05d9\u05d8\u05d5",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d7\u05dc\u05d1\u05d9\u05ea",
-        "wrap_address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 144",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a4%d7%94-%d7%93%d7%95%d7%a0%d7%a8/",
-        "post_title": "\u05e4\u05e4\u05d4 \u05d3\u05d5\u05e0\u05e8",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 96",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%93%d7%99%d7%a1%d7%95-%d7%aa%d7%90/",
-        "post_title": "\u05e4\u05e8\u05d3\u05d9\u05e1\u05d5 \u05ea\"\u05d0",
-        "business_type": "\u05d1\u05d9\u05ea \u05e7\u05e4\u05d4",
-        "wrap_address": "\u05de\u05ea\u05d7\u05dd \u05e9\u05e8\u05d5\u05e0\u05d4",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%95%d7%a1%d7%95%d7%aa-%d7%a4%d7%a7%d7%98%d7%95%d7%a8%d7%99/",
-        "post_title": "\u05e4\u05e8\u05d5\u05e1\u05d5\u05ea \u05e4\u05e7\u05d8\u05d5\u05e8\u05d9",
-        "business_type": "\u05de\u05e4\u05e2\u05dc",
-        "wrap_address": "\u05d4\u05d1\u05e8\u05d6\u05dc 34",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%99-101/",
-        "post_title": "\u05e4\u05e8\u05d9 101",
-        "business_type": "\u05d7\u05e0\u05d5\u05ea \u05de\u05d9\u05e6\u05d9\u05dd",
-        "wrap_address": "\u05d9\u05d2\u05d0\u05dc \u05d0\u05dc\u05d5\u05df 94",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%99-%d7%9e%d7%aa%d7%95%d7%a7/",
-        "post_title": "\u05e4\u05e8\u05d9 \u05de\u05ea\u05d5\u05e7",
-        "business_type": "\u05de\u05e4\u05e2\u05dc",
-        "wrap_address": "\u05d1\u05df \u05e6\u05d1\u05d9 104",
-        "wrap_congregation": "",
-        "wrap_phone": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%99-%d7%a7%d7%9c%d7%95%d7%a3/",
-        "post_title": "\u05e4\u05e8\u05d9 \u05e7\u05dc\u05d5\u05e3",
-        "business_type": "\u05de\u05e4\u05e2\u05dc",
-        "wrap_address": "\u05d4\u05de\u05e1\u05d2\u05e8 56",
-        "wrap_congregation": ""
-    },
-    {
-        "kosher_date": "1713657600",
-        "href": "https://rabanut.co.il/business/%d7%a4%d7%a8%d7%99%d7%99%d7%9d-%d7%90%d7%95%d7%a8%d7%91%d7%9f/",
-        "post_title": "\u05e4\u05e8\u05d9\u05d9\u05dd \u05d0\u05d5\u05e8\u05d1\u05df",
-        "business_type": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d1\u05e9\u05e8\u05d9\u05ea",
-        "wrap_address": "\u05d4\u05de\u05e1\u05d2\u05e8 38",
-        "wrap_congregation": ""
     }
 ]
