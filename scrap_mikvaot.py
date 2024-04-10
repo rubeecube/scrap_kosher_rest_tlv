@@ -4,6 +4,8 @@ import requests
 from io import StringIO
 import pandas
 import time
+import os
+
 
 def innertext(tag, strip_text=True):
     if tag.text is None:
@@ -79,10 +81,10 @@ for i, mikve_url in enumerate(mikves_url):
         }
     except:
         print(f"Done {i}/{len(mikves_url)}...")
-        with open('mikvaot.json', 'w+') as f:
+        with open('mikvaot_bak.json', 'w+') as f:
             json.dump(mikves, f, indent=4)
-        pandas.read_json("mikvaot.json").to_excel("mikvaot_partial.xlsx", index=False)
-        pandas.read_json("mikvaot.json").to_csv("mikvaot_partial.csv", index=False)
+        pandas.read_json("mikvaot_bak.json").to_excel("mikvaot_partial.xlsx", index=False)
+        pandas.read_json("mikvaot_bak.json").to_csv("mikvaot_partial.csv", index=False)
         print('go to sleep...')
 
         time.sleep(60*5)
@@ -105,10 +107,11 @@ for i, mikve_url in enumerate(mikves_url):
             pass
     mikves += [res]
 
-with open('mikvaot.json', 'w+') as f:
+with open('mikvaot_bak.json', 'w+') as f:
     json.dump(mikves, f, indent=4)
 
-pandas.read_json("mikvaot.json").to_excel("mikvaot.xlsx", index=False)
-pandas.read_json("mikvaot.json").to_csv("mikvaot.csv", index=False)
+pandas.read_json("mikvaot_bak.json").to_excel("mikvaot.xlsx", index=False)
+pandas.read_json("mikvaot_bak.json").to_csv("mikvaot.csv", index=False)
+os.rename("mikvaot.json", "mikvaot_bak.json")
 
 
