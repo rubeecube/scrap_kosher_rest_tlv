@@ -14,3 +14,4 @@ RUN pip3 install --break-system-packages --no-cache-dir --upgrade -r /app/requir
 ENV PYTHONPATH=$PYTHONPATH:/app
 
 CMD ["python3", "scrap.py"]
+CMD ["python3", "scrap_mikvaot.py"]
