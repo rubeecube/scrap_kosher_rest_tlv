@@ -1,5 +1,3 @@
-#
-
 import json
 
 import lxml.html
@@ -32,13 +30,13 @@ for page in range(1, 7):
             res[el.attrib['class']] = el.text.strip()
         rests += [res]
 
-with open('rabanut.json', 'w+') as f:
+with open('Storage/rabanut.json', 'w+') as f:
     json.dump(rests, f, indent=4)
 
-with open('rabanut_ids.json', 'w+') as f:
+with open('Storage/rabanut_ids.json', 'w+') as f:
     json.dump(biz_id, f, indent=4)
 
-pandas.read_json("rabanut.json").to_excel("rabanut.xlsx", index=False)
-pandas.read_json("rabanut.json").to_csv("rabanut.csv", index=False)
+pandas.read_json("Storage/rabanut.json").to_excel("Storage/rabanut.xlsx", index=False)
+pandas.read_json("Storage/rabanut.json").to_csv("Storage/rabanut.csv", index=False)
 
 

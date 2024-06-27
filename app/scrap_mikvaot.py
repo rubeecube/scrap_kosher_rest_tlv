@@ -34,7 +34,7 @@ parser = etree.HTMLParser()
 re_cache = False
 
 try:
-    with open('mikve_urls.json', 'r') as f:
+    with open('Storage/mikve_urls.json', 'r') as f:
         mikves_url = json.load(f)
 except:
     re_cache = True
@@ -48,11 +48,11 @@ if re_cache:
         tree = etree.parse(StringIO(html), parser)
         mikves_url += [mikve.attrib['href'] for mikve in tree.xpath("/html/body/div[1]/section/div/div[2]/div[2]/div/div/a")]
 
-    with open('mikve_urls.json', 'w+') as f:
+    with open('Storage/mikve_urls.json', 'w+') as f:
         json.dump(mikves_url, f, indent=4)
 
 try:
-    with open('mikvaot.json', 'r') as f:
+    with open('Storage/mikvaot.json', 'r') as f:
         mikves = json.load(f)
 except:
     re_cache = True
@@ -81,10 +81,10 @@ for i, mikve_url in enumerate(mikves_url):
         }
     except:
         print(f"Done {i}/{len(mikves_url)}...")
-        with open('mikvaot_bak.json', 'w+') as f:
+        with open('Storage/mikvaot.json', 'w+') as f:
             json.dump(mikves, f, indent=4)
-        pandas.read_json("mikvaot_bak.json").to_excel("mikvaot_partial.xlsx", index=False)
-        pandas.read_json("mikvaot_bak.json").to_csv("mikvaot_partial.csv", index=False)
+        pandas.read_json("Storage/mikvaot.json").to_excel("Storage/mikvaot_partial.xlsx", index=False)
+        pandas.read_json("Storage/mikvaot.json").to_csv("Storage/mikvaot_partial.csv", index=False)
         print('go to sleep...')
 
         time.sleep(60*5)
@@ -107,11 +107,11 @@ for i, mikve_url in enumerate(mikves_url):
             pass
     mikves += [res]
 
-with open('mikvaot_bak.json', 'w+') as f:
+with open('Storage/mikvaot.json', 'w+') as f:
     json.dump(mikves, f, indent=4)
 
-pandas.read_json("mikvaot_bak.json").to_excel("mikvaot.xlsx", index=False)
-pandas.read_json("mikvaot_bak.json").to_csv("mikvaot.csv", index=False)
-os.rename("mikvaot.json", "mikvaot_bak.json")
+pandas.read_json("Storage/mikvaot.json").to_excel("Storage/mikvaot.xlsx", index=False)
+pandas.read_json("Storage/mikvaot.json").to_csv("Storage/mikvaot.csv", index=False)
+os.rename("Storage/mikvaot.json", "Storage/mikvaot_bak.json")
 
 

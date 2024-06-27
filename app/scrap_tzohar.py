@@ -44,10 +44,10 @@ for r in rests:
         }
     ]
 
-with open('tsohar.json', 'w+') as f:
+with open('Storage/tsohar.json', 'w+') as f:
     json.dump(tsohar, f, indent=4)
 
-pandas.read_json("tsohar.json").to_excel("tsohar.xlsx", index=False)
-pandas.read_json("tsohar.json").to_csv("tsohar.csv", index=False)
+pandas.read_json("Storage/tsohar.json").to_excel("Storage/tsohar.xlsx", index=False)
+pandas.read_json("Storage/tsohar.json").to_csv("Storage/tsohar.csv", index=False)
 
 

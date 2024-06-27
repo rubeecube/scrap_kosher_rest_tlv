@@ -25,7 +25,7 @@ parser = etree.HTMLParser()
 re_cache = False
 
 try:
-    with open('syn_urls.json', 'r') as f:
+    with open('Storage/syn_urls.json', 'r') as f:
         syns_url = json.load(f)
 except:
     re_cache = True
@@ -39,11 +39,11 @@ if re_cache:
         tree = etree.parse(StringIO(html), parser)
         syns_url += [syn.attrib['href'] for syn in tree.xpath("/html/body/div[1]/section/div/div[2]/div[2]/div/div/a")]
 
-    with open('syn_urls.json', 'w+') as f:
+    with open('Storage/syn_urls.json', 'w+') as f:
         json.dump(syns_url, f, indent=4)
 
 try:
-    with open('synagogues.json', 'r') as f:
+    with open('Storage/synagogues.json', 'r') as f:
         syns = json.load(f)
 except:
     re_cache = True
@@ -70,10 +70,10 @@ for i, syn_url in enumerate(syns_url):
         }
     except:
         print(f"Done {i}/{len(syns_url)}...")
-        with open('synagogues.json', 'w+') as f:
+        with open('Storage/synagogues.json', 'w+') as f:
             json.dump(syns, f, indent=4)
-        pandas.read_json("synagogues.json").to_excel("synagogues_partial.xlsx", index=False)
-        pandas.read_json("synagogues.json").to_csv("synagogues_partial.csv", index=False)
+        pandas.read_json("Storage/synagogues.json").to_excel("Storage/synagogues_partial.xlsx", index=False)
+        pandas.read_json("Storage/synagogues.json").to_csv("Storage/synagogues_partial.csv", index=False)
         print('go to sleep...')
 
         time.sleep(60*5)
@@ -87,9 +87,9 @@ for i, syn_url in enumerate(syns_url):
         res[f] = values[i]
     syns += [res]
 
-with open('synagogues.json', 'w+') as f:
+with open('Storage/synagogues.json', 'w+') as f:
     json.dump(syns, f, indent=4)
 
-pandas.read_json("synagogues.json").to_excel("synagogues.xlsx", index=False)
-pandas.read_json("synagogues.json").to_csv("synagogues.csv", index=False)
-os.rename("synagogues.json", "synagogues_bak.json")
+pandas.read_json("Storage/synagogues.json").to_excel("Storage/synagogues.xlsx", index=False)
+pandas.read_json("Storage/synagogues.json").to_csv("Storage/synagogues.csv", index=False)
+os.rename("Storage/synagogues.json", "Storage/synagogues_bak.json")
