@@ -11,7 +11,7 @@ parser = etree.HTMLParser()
 
 rests = []
 biz_id = None
-for page in range(1, 7):
+for page in range(1, 10):
     html = requests.get(url + str(page)).text
     tree = etree.parse(StringIO(html), parser)
     if biz_id is None:
