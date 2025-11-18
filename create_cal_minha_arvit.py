@@ -167,24 +167,37 @@ Examples:
         print(f"Starting from: {date}")
     
     location = GeoLocation('Tel Aviv', 32.109333, 34.855499, 'Asia/Jerusalem')
+    
+    # Create calendar objects once and reuse them (major performance improvement)
     calendar = ZmanimCalendar(geo_location=location, date=date)
+    calendar_day = ZmanimCalendar(geo_location=location, date=date)
+    jewish_cal = JewishCalendar()
 
     cal = icalendar.Calendar()
     cal.add('prodid', '-//Minha+Arvit//')
     cal.add('version', '2.0')
 
+    print(f"Generating {num_weeks} weeks of events...")
+    
     for i in range(num_weeks):
         date = date + datetime.timedelta(days=7)
-        calendar = ZmanimCalendar(geo_location=location, date=date)
+        calendar.date = date
+        
+        # Progress indicator
+        if (i + 1) % 10 == 0 or i == 0:
+            print(f"  Processing week {i + 1}/{num_weeks}...")
         
         # Check all 7 days of the week for holidays and special days
         for ii in range(7):
             date_w = date + datetime.timedelta(days=ii)
-            calendar_day = ZmanimCalendar(geo_location=location, date=date_w)
+            calendar_day.date = date_w
             
-            # Create JewishCalendar object for this date
-            jewish_cal = JewishCalendar()
+            # Update JewishCalendar object for this date (reuse object)
             jewish_cal.set_gregorian_date(date_w.year, date_w.month, date_w.day)
+            
+            # Cache zmanim calculations for this day
+            shkia_time = calendar_day.shkia()
+            tzais_time = calendar_day.tzais() if jewish_cal.significant_day() and 'chanukah' in str(jewish_cal.significant_day()).lower() else None
             
             # Check what type of day this is
             day_type, day_name = get_day_type(jewish_cal)
@@ -235,11 +248,11 @@ Examples:
                 
                 # Special handling for Chanukah: Add OOO from Minha to Tset Hakochavim + 1hr
                 if 'Chanukah' in day_name:
-                    # Calculate Minha time
-                    minha_start = calendar_day.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
-                    # Calculate Tset Hakochavim (nightfall) + 1 hour using proper zmanim method
-                    tset_hakochavim = calendar_day.tzais()
-                    tset_plus_1hr = tset_hakochavim + datetime.timedelta(hours=1)
+                    # Calculate times using cached values
+                    if tzais_time is None:
+                        tzais_time = calendar_day.tzais()
+                    minha_start = shkia_time - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
+                    tset_plus_1hr = tzais_time + datetime.timedelta(hours=1)
                     
                     event = icalendar.Event()
                     event.add('summary', f'[JCal] {day_name} - Candle Lighting')
@@ -253,20 +266,20 @@ Examples:
                 # Continue to add Minha/Arvit for free events
             
             # Add winter time OOO blocks (November through February)
-            # Winter months: 11, 12, 1, 2
+            # Winter months: 11, 12, 1, 2 on working days (Sunday-Thursday)
             if date_w.weekday() < 5 and date_w.month in [11, 12, 1, 2]:
-                # First winter OOO block: 13:10 - 13:45
+                # First Minha slot: 13:10 - 13:45
                 event = icalendar.Event()
-                event.add('summary', 'Winter Break 1')
+                event.add('summary', '[JCal] Minha 1')
                 event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 10, 0))
                 event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 45, 0))
                 event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
                 event.add('CLASS', 'PRIVATE')
                 cal.add_component(event)
                 
-                # Second winter OOO block: 15:10 - 15:30
+                # Second Minha slot: 15:10 - 15:30
                 event = icalendar.Event()
-                event.add('summary', 'Winter Break 2')
+                event.add('summary', '[JCal] Minha 2')
                 event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 10, 0))
                 event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 30, 0))
                 event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
@@ -275,25 +288,23 @@ Examples:
             
             # Add Minha and Arvit only for weekdays (Sunday-Thursday, 0-4 in Python)
             if date_w.weekday() < 5:
-                db = calendar.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
+                # Use cached shkia_time for performance
+                db = shkia_time - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
                 de = db + datetime.timedelta(minutes=LENGTH_MINHA)
 
-                db = db + datetime.timedelta(days=ii)
-                de = de + datetime.timedelta(days=ii)
-
                 event = icalendar.Event()
-                event.add('summary', f"Minha (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
+                event.add('summary', f"[JCal] Minha (Shkia: {shkia_time.strftime('%H:%M')})")
                 event.add('dtstart', datetime.datetime(db.year, db.month, db.day, db.hour, db.minute // 5 * 5, 0))
                 event.add('dtend', datetime.datetime(de.year, de.month, de.day, de.hour, de.minute // 5 * 5, 0))
                 event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
                 event.add('CLASS', 'PRIVATE')
                 cal.add_component(event)
 
-                db_a = db + datetime.timedelta(minutes=TIME_BEFORE_SUNSET + TIME_AFTER_SUNSET + 4)
+                db_a = shkia_time + datetime.timedelta(minutes=TIME_AFTER_SUNSET + 4)
                 de_a = db_a + datetime.timedelta(minutes=LENGTH_ARVIT)
 
                 event = icalendar.Event()
-                event.add('summary', f"Arvit (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
+                event.add('summary', f"[JCal] Arvit (Shkia: {shkia_time.strftime('%H:%M')})")
                 event.add('dtstart', datetime.datetime(db_a.year, db_a.month, db_a.day, db_a.hour, db_a.minute // 5 * 5, 0))
                 event.add('dtend', datetime.datetime(de_a.year, de_a.month, de_a.day, de_a.hour, de_a.minute // 5 * 5, 0))
                 event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
