@@ -3,6 +3,7 @@ from zmanim.util.geo_location import GeoLocation
 from zmanim.hebrew_calendar.jewish_calendar import JewishCalendar
 import datetime
 import icalendar
+import argparse
 
 TIME_BEFORE_SUNSET = 20
 TIME_AFTER_SUNSET = 25
@@ -104,146 +105,209 @@ def get_day_type(jewish_date):
     return ('regular', None)
 
 
-location = GeoLocation('Tel Aviv', 32.109333, 34.855499, 'Asia/Jerusalem')
-date = datetime.date.today()
-calendar = ZmanimCalendar(geo_location=location, date=date)
-while date.weekday() != 6:
-    date = date - datetime.timedelta(days=1)
-date = date - datetime.timedelta(days=7)
-
-calendar = ZmanimCalendar(geo_location=location, date=date)
-
-cal = icalendar.Calendar()
-cal.add('prodid', '-//Minha+Arvit//')
-cal.add('version', '2.0')
-
-for i in range(52):
-    date = date + datetime.timedelta(days=7)
-    calendar = ZmanimCalendar(geo_location=location, date=date)
+def get_start_date_for_jewish_year(jewish_year):
+    """Get the Sunday before or on 1 Tishrei of the given Jewish year."""
+    jc = JewishCalendar()
+    jc.set_jewish_date(jewish_year, 7, 1)  # 1 Tishrei = Rosh Hashanah
+    start_date = datetime.date(jc.gregorian_year, jc.gregorian_month, jc.gregorian_day)
     
-    # Check all 7 days of the week for holidays and special days
-    for ii in range(7):
-        date_w = date + datetime.timedelta(days=ii)
-        calendar_day = ZmanimCalendar(geo_location=location, date=date_w)
+    # Find the Sunday before or on this date
+    while start_date.weekday() != 6:  # 6 = Sunday
+        start_date = start_date - datetime.timedelta(days=1)
+    
+    return start_date
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Generate Minha/Arvit calendar with Jewish holidays',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''
+Examples:
+  # Generate for Jewish year 5786
+  python create_cal_minha_arvit.py --jewish-year 5786
+  
+  # Generate for current date + 52 weeks
+  python create_cal_minha_arvit.py --weeks 52
+  
+  # Generate from specific date
+  python create_cal_minha_arvit.py --start-date 2025-09-21 --weeks 52
+        '''
+    )
+    
+    parser.add_argument('--jewish-year', type=int, 
+                        help='Jewish year (e.g., 5786). Generates full year from Rosh Hashanah.')
+    parser.add_argument('--start-date', type=str,
+                        help='Start date in YYYY-MM-DD format (default: last Sunday)')
+    parser.add_argument('--weeks', type=int, default=52,
+                        help='Number of weeks to generate (default: 52)')
+    parser.add_argument('--output', type=str, default='minha_arvit.ics',
+                        help='Output filename (default: minha_arvit.ics)')
+    
+    args = parser.parse_args()
+    
+    # Determine start date
+    if args.jewish_year:
+        date = get_start_date_for_jewish_year(args.jewish_year)
+        num_weeks = 52
+        print(f"Generating calendar for Jewish year {args.jewish_year}")
+        print(f"Starting from: {date}")
+    elif args.start_date:
+        date = datetime.datetime.strptime(args.start_date, '%Y-%m-%d').date()
+        num_weeks = args.weeks
+        print(f"Generating calendar from {date} for {num_weeks} weeks")
+    else:
+        # Default: use current Jewish year
+        jc = JewishCalendar()
+        jc.set_gregorian_date(datetime.date.today().year, datetime.date.today().month, datetime.date.today().day)
+        current_jewish_year = jc.jewish_year
+        date = get_start_date_for_jewish_year(current_jewish_year)
+        num_weeks = args.weeks
+        print(f"Generating calendar for current Jewish year {current_jewish_year}")
+        print(f"Starting from: {date}")
+    
+    location = GeoLocation('Tel Aviv', 32.109333, 34.855499, 'Asia/Jerusalem')
+    calendar = ZmanimCalendar(geo_location=location, date=date)
+
+    cal = icalendar.Calendar()
+    cal.add('prodid', '-//Minha+Arvit//')
+    cal.add('version', '2.0')
+
+    for i in range(num_weeks):
+        date = date + datetime.timedelta(days=7)
+        calendar = ZmanimCalendar(geo_location=location, date=date)
         
-        # Create JewishCalendar object for this date
-        jewish_cal = JewishCalendar()
-        jewish_cal.set_gregorian_date(date_w.year, date_w.month, date_w.day)
-        
-        # Check what type of day this is
-        day_type, day_name = get_day_type(jewish_cal)
-        
-        # Add holiday events
-        if day_type == 'ooo_holiday':
-            # All-day out-of-office event for major holidays
-            event = icalendar.Event()
-            event.add('summary', f'[JCal] {day_name} - Out of Office')
-            event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
-            event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
-            continue  # Skip Minha/Arvit for OOO holidays
-        
-        elif day_type == 'chol_hamoed':
-            # All-day event for Chol HaMoed
-            event = icalendar.Event()
-            event.add('summary', f'[JCal] {day_name} - Out of Office')
-            event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
-            event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
-            continue  # Skip Minha/Arvit for Chol HaMoed
-        
-        elif day_type == 'rosh_hodesh':
-            # Morning OOO until 10:30 AM for Rosh Hodesh
-            event = icalendar.Event()
-            event.add('summary', f'[JCal] {day_name} - Out of Office (Morning)')
-            event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 0, 0, 0))
-            event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 10, 30, 0))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
-            # Continue to add Minha/Arvit for Rosh Hodesh
-        
-        elif day_type == 'free_event':
-            # All-day FREE event for other Jewish calendar days
-            event = icalendar.Event()
-            event.add('summary', f'[JCal] {day_name}')
-            event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
-            event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'FREE')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
+        # Check all 7 days of the week for holidays and special days
+        for ii in range(7):
+            date_w = date + datetime.timedelta(days=ii)
+            calendar_day = ZmanimCalendar(geo_location=location, date=date_w)
             
-            # Special handling for Chanukah: Add OOO from Minha to Tset Hakochavim + 1hr
-            if 'Chanukah' in day_name:
-                # Calculate Minha time
-                minha_start = calendar_day.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
-                # Calculate Tset Hakochavim (nightfall) + 1 hour using proper zmanim method
-                tset_hakochavim = calendar_day.tzais()
-                tset_plus_1hr = tset_hakochavim + datetime.timedelta(hours=1)
-                
+            # Create JewishCalendar object for this date
+            jewish_cal = JewishCalendar()
+            jewish_cal.set_gregorian_date(date_w.year, date_w.month, date_w.day)
+            
+            # Check what type of day this is
+            day_type, day_name = get_day_type(jewish_cal)
+            
+            # Add holiday events
+            if day_type == 'ooo_holiday':
+                # All-day out-of-office event for major holidays
                 event = icalendar.Event()
-                event.add('summary', f'[JCal] {day_name} - Candle Lighting')
-                event.add('dtstart', datetime.datetime(minha_start.year, minha_start.month, minha_start.day, 
-                                                      minha_start.hour, minha_start.minute // 5 * 5, 0))
-                event.add('dtend', datetime.datetime(tset_plus_1hr.year, tset_plus_1hr.month, tset_plus_1hr.day,
-                                                    tset_plus_1hr.hour, tset_plus_1hr.minute // 5 * 5, 0))
+                event.add('summary', f'[JCal] {day_name} - Out of Office')
+                event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
+                event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
                 event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
                 event.add('CLASS', 'PRIVATE')
                 cal.add_component(event)
-            # Continue to add Minha/Arvit for free events
-        
-        # Add winter time OOO blocks (November through February)
-        # Winter months: 11, 12, 1, 2
-        if date_w.weekday() < 5 and date_w.month in [11, 12, 1, 2]:
-            # First winter OOO block: 13:10 - 13:45
-            event = icalendar.Event()
-            event.add('summary', 'Winter Break 1')
-            event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 10, 0))
-            event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 45, 0))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
+                continue  # Skip Minha/Arvit for OOO holidays
             
-            # Second winter OOO block: 15:10 - 15:30
-            event = icalendar.Event()
-            event.add('summary', 'Winter Break 2')
-            event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 10, 0))
-            event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 30, 0))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
-        
-        # Add Minha and Arvit only for weekdays (Sunday-Thursday, 0-4 in Python)
-        if date_w.weekday() < 5:
-            db = calendar.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
-            de = db + datetime.timedelta(minutes=LENGTH_MINHA)
+            elif day_type == 'chol_hamoed':
+                # All-day event for Chol HaMoed
+                event = icalendar.Event()
+                event.add('summary', f'[JCal] {day_name} - Out of Office')
+                event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
+                event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
+                continue  # Skip Minha/Arvit for Chol HaMoed
+            
+            elif day_type == 'rosh_hodesh':
+                # Morning OOO until 10:30 AM for Rosh Hodesh
+                event = icalendar.Event()
+                event.add('summary', f'[JCal] {day_name} - Out of Office (Morning)')
+                event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 0, 0, 0))
+                event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 10, 30, 0))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
+                # Continue to add Minha/Arvit for Rosh Hodesh
+            
+            elif day_type == 'free_event':
+                # All-day FREE event for other Jewish calendar days
+                event = icalendar.Event()
+                event.add('summary', f'[JCal] {day_name}')
+                event.add('dtstart', datetime.date(date_w.year, date_w.month, date_w.day))
+                event.add('dtend', datetime.date(date_w.year, date_w.month, date_w.day) + datetime.timedelta(days=1))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'FREE')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
+                
+                # Special handling for Chanukah: Add OOO from Minha to Tset Hakochavim + 1hr
+                if 'Chanukah' in day_name:
+                    # Calculate Minha time
+                    minha_start = calendar_day.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
+                    # Calculate Tset Hakochavim (nightfall) + 1 hour using proper zmanim method
+                    tset_hakochavim = calendar_day.tzais()
+                    tset_plus_1hr = tset_hakochavim + datetime.timedelta(hours=1)
+                    
+                    event = icalendar.Event()
+                    event.add('summary', f'[JCal] {day_name} - Candle Lighting')
+                    event.add('dtstart', datetime.datetime(minha_start.year, minha_start.month, minha_start.day, 
+                                                          minha_start.hour, minha_start.minute // 5 * 5, 0))
+                    event.add('dtend', datetime.datetime(tset_plus_1hr.year, tset_plus_1hr.month, tset_plus_1hr.day,
+                                                        tset_plus_1hr.hour, tset_plus_1hr.minute // 5 * 5, 0))
+                    event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                    event.add('CLASS', 'PRIVATE')
+                    cal.add_component(event)
+                # Continue to add Minha/Arvit for free events
+            
+            # Add winter time OOO blocks (November through February)
+            # Winter months: 11, 12, 1, 2
+            if date_w.weekday() < 5 and date_w.month in [11, 12, 1, 2]:
+                # First winter OOO block: 13:10 - 13:45
+                event = icalendar.Event()
+                event.add('summary', 'Winter Break 1')
+                event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 10, 0))
+                event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 13, 45, 0))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
+                
+                # Second winter OOO block: 15:10 - 15:30
+                event = icalendar.Event()
+                event.add('summary', 'Winter Break 2')
+                event.add('dtstart', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 10, 0))
+                event.add('dtend', datetime.datetime(date_w.year, date_w.month, date_w.day, 15, 30, 0))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
+            
+            # Add Minha and Arvit only for weekdays (Sunday-Thursday, 0-4 in Python)
+            if date_w.weekday() < 5:
+                db = calendar.shkia() - datetime.timedelta(minutes=TIME_BEFORE_SUNSET)
+                de = db + datetime.timedelta(minutes=LENGTH_MINHA)
 
-            db = db + datetime.timedelta(days=ii)
-            de = de + datetime.timedelta(days=ii)
+                db = db + datetime.timedelta(days=ii)
+                de = de + datetime.timedelta(days=ii)
 
-            event = icalendar.Event()
-            event.add('summary', f"Minha (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
-            event.add('dtstart', datetime.datetime(db.year, db.month, db.day, db.hour, db.minute // 5 * 5, 0))
-            event.add('dtend', datetime.datetime(de.year, de.month, de.day, de.hour, de.minute // 5 * 5, 0))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
+                event = icalendar.Event()
+                event.add('summary', f"Minha (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
+                event.add('dtstart', datetime.datetime(db.year, db.month, db.day, db.hour, db.minute // 5 * 5, 0))
+                event.add('dtend', datetime.datetime(de.year, de.month, de.day, de.hour, de.minute // 5 * 5, 0))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
 
-            db_a = db + datetime.timedelta(minutes=TIME_BEFORE_SUNSET + TIME_AFTER_SUNSET + 4)
-            de_a = db_a + datetime.timedelta(minutes=LENGTH_ARVIT)
+                db_a = db + datetime.timedelta(minutes=TIME_BEFORE_SUNSET + TIME_AFTER_SUNSET + 4)
+                de_a = db_a + datetime.timedelta(minutes=LENGTH_ARVIT)
 
-            event = icalendar.Event()
-            event.add('summary', f"Arvit (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
-            event.add('dtstart', datetime.datetime(db_a.year, db_a.month, db_a.day, db_a.hour, db_a.minute // 5 * 5, 0))
-            event.add('dtend', datetime.datetime(de_a.year, de_a.month, de_a.day, de_a.hour, de_a.minute // 5 * 5, 0))
-            event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
-            event.add('CLASS', 'PRIVATE')
-            cal.add_component(event)
+                event = icalendar.Event()
+                event.add('summary', f"Arvit (Shkia: {calendar_day.shkia().strftime('%H:%M')})")
+                event.add('dtstart', datetime.datetime(db_a.year, db_a.month, db_a.day, db_a.hour, db_a.minute // 5 * 5, 0))
+                event.add('dtend', datetime.datetime(de_a.year, de_a.month, de_a.day, de_a.hour, de_a.minute // 5 * 5, 0))
+                event.add('X-MICROSOFT-CDO-BUSYSTATUS', 'OOF')
+                event.add('CLASS', 'PRIVATE')
+                cal.add_component(event)
 
-f = open('minha_arvit.ics', 'wb')
-f.write(cal.to_ical())
+    # Write calendar to file
+    with open(args.output, 'wb') as f:
+        f.write(cal.to_ical())
+    
+    print(f"\n✓ Calendar generated successfully!")
+    print(f"✓ Output file: {args.output}")
+
+
+if __name__ == '__main__':
+    main()
 
